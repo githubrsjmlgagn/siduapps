@@ -18,7 +18,7 @@
   ],
   "ads": [
     {
-      "ad_status": 0,
+      "ad_status": 1,
       "main_ad": "admob",
       "backup_ad": "none",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
@@ -60,7 +60,7 @@
       "show_native_ad_wallpaper_list": true,
       "show_native_ad_wallpaper_details": true,
       "show_open_ad_on_app_start": true,
-      "show_open_ad_on_app_resume": true
+      "show_open_ad_on_app_resume": false
     }
   ],
   "categories": [
