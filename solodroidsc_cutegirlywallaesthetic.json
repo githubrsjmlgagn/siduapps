@@ -15,7 +15,7 @@
       "redirect_url": "",
       "privacy_policy_url": "https://htmlpreview.github.io/?https://raw.githubusercontent.com/solodroidev/content/uploads/privacy/wallpaper.html"
     }
-  ],
+  ], 
   "ads": [
     {
       "ad_status": 1,
@@ -67,32 +67,32 @@
     {
       "category_id": 1,
       "category_name": "Anime Girl",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/sunset.jpg"
+      "category_image": "https://i.pinimg.com/originals/0d/23/8c/0d238c9d5352770ba914d1553618e50f.jpg"
     },
     {
       "category_id": 2,
       "category_name": "Cute and Adorable",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
+      "category_image": "https://i.pinimg.com/originals/6a/99/a7/6a99a770f0064fa156eb5e592205d38e.jpg"
     },
 	{
       "category_id": 3,
       "category_name": "Collage Art",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
+      "category_image": "https://i.pinimg.com/originals/ec/7e/84/ec7e8412d5ff65f0a14c851099c32581.jpg"
     },
     {
       "category_id": 4,
       "category_name": "Aesthetic",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
+      "category_image": "https://i.pinimg.com/originals/38/8c/7e/388c7e003cadad9fa75908b97e610be5.jpg"
     },
 	{
       "category_id": 5,
       "category_name": "Glitter Sparkle",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
+      "category_image": "https://i.pinimg.com/736x/db/de/33/dbde33fe7c83b875bb9aa546b34e05bf.jpg"
     },
 	{
       "category_id": 6,
       "category_name": "Pattern",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
+      "category_image": "https://i.pinimg.com/736x/57/55/c1/5755c14a033cafb19e957c4cd90d6868.jpg"
     }
   ],
 	
