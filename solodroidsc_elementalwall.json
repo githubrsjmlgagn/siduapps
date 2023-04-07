@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "featured_categories": "",
+      "featured_categories": "Ember and Wade, Elemental Fan Art",
       "show_wallpaper_name": false,
       "show_wallpaper_category": false,
       "show_favorite_button_in_wallpaper_list": true,
@@ -21,10 +21,10 @@
       "ad_status": 0,
       "main_ad": "admob",
       "backup_ad": "none",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/2934735716",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/4411468910",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/3986624511",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/5662855259",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -59,483 +59,925 @@
       "show_interstitial_ad_wallpaper_details": true,
       "show_native_ad_wallpaper_list": true,
       "show_native_ad_wallpaper_details": true,
-      "show_open_ad_on_app_start": true,
-      "show_open_ad_on_app_resume": false
+      "show_open_ad_on_app_start": false,
+      "show_open_ad_on_app_resume": true
     }
   ],
+	
   "categories": [
     {
       "category_id": 1,
       "category_name": "Ember and Wade",
-      "category_image": "https://i.pinimg.com/564x/e6/69/99/e66999a57a03b402c0b922ebf007eb6b.jpg"
-    }  
+      "category_image": "https://i.pinimg.com/564x/d3/0b/15/d30b156bc815484da26be704cf66884b.jpg"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Elemental Fan Art",
+      "category_image": "https://i.pinimg.com/564x/bf/63/76/bf6376f7dcd859e5eabdae62fcf94da4.jpg"
+    }	  
   ],
 	
 	
    "wallpapers": [
-    {
+   {
       "wallpaper_id": 1,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 1",
+      "wallpaper_name": "ember wade  1",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f9/e7/7e/f9e77ecdb06b3b821fa93f770d179374.jpg"
-     },
+    },
 
-     {
+{
       "wallpaper_id": 2,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 2",
+      "wallpaper_name": "ember wade  2",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/94/72/92/94729228d2ff3855bfd6cb342abfb647.jpg"
-     },
-     {
+    },
+
+{
       "wallpaper_id": 3,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 3",
+      "wallpaper_name": "ember wade  3",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/29/bd/aa/29bdaabd309e6e6f49c1eee5f0dfb69b.jpg"
-     },
+    },
 
-     {
+{
       "wallpaper_id": 4,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 4",
+      "wallpaper_name": "ember wade  4",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/18/e5/79/18e57928a59dbc9b1d3000b24eee4296.jpg"
-     },
+    },
 
-     {
+{
       "wallpaper_id": 5,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 5",
+      "wallpaper_name": "ember wade  5",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f6/cf/7d/f6cf7d7e05a7418cc0c4a17dd87da22e.jpg"
-     },
+    },
 
-    {
+{
       "wallpaper_id": 6,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 6",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/40/7e/d8/407ed85d0a1ef7a9b45065bde4164bbd.jpg"
-     },
-    {
-      "wallpaper_id": 7,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 7",
+      "wallpaper_name": "ember wade  6",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/e6/69/99/e66999a57a03b402c0b922ebf007eb6b.jpg"
     },
 
 {
-      "wallpaper_id": 8,
+      "wallpaper_id": 7,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 8",
+      "wallpaper_name": "ember wade  7",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/77/af/28/77af28398b59981fba3f2dd03d64da5e.jpg"
     },
 
 {
-      "wallpaper_id": 9,
+      "wallpaper_id": 8,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 9",
+      "wallpaper_name": "ember wade  8",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/54/5b/9e/545b9e5ffc5529e2560575d2f51236b1.jpg"
     },
 
 {
-      "wallpaper_id": 10,
+      "wallpaper_id": 9,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 10",
+      "wallpaper_name": "ember wade  9",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/81/74/85/817485404771aa75dc64051c7a3a06bf.jpg"
     },
 
 {
-      "wallpaper_id": 11,
+      "wallpaper_id": 10,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 11",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/26/00/1a/26001a9736d104897794b4d3e33ed916.jpg"
-    },
-
-{
-      "wallpaper_id": 12,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 12",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/e8/4c/8a/e84c8a6792d7b5fedac39fe57f77ada4.jpg"
-    },
-
-{
-      "wallpaper_id": 13,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 13",
+      "wallpaper_name": "ember wade  10",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/43/dd/38/43dd38c86e8c1bc3a95bc542d12d8ac5.jpg"
     },
 
 {
-      "wallpaper_id": 14,
+      "wallpaper_id": 11,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 14",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/44/fc/1e/44fc1edf76bcbf601a85bf4b9ce14527.jpg"
-    },
-
-{
-      "wallpaper_id": 15,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 15",
+      "wallpaper_name": "ember wade  11",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/d3/0b/15/d30b156bc815484da26be704cf66884b.jpg"
     },
 
 {
-      "wallpaper_id": 16,
+      "wallpaper_id": 12,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 16",
+      "wallpaper_name": "ember wade  12",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f6/58/de/f658de3f9d745962028c568b7629717f.jpg"
     },
 
 {
-      "wallpaper_id": 17,
+      "wallpaper_id": 13,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 17",
+      "wallpaper_name": "ember wade  13",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/2e/18/3c/2e183c5c63dd872481e56284844d32b2.jpg"
     },
 
 {
-      "wallpaper_id": 18,
+      "wallpaper_id": 14,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 18",
+      "wallpaper_name": "ember wade  14",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/b4/87/cf/b487cf68330edfe6612dd6f9d138c74e.jpg"
     },
 
 {
-      "wallpaper_id": 19,
+      "wallpaper_id": 15,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 19",
+      "wallpaper_name": "ember wade  15",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/84/67/18/84671856186ad2eb54d633bc79c865b7.jpg"
     },
 
 {
-      "wallpaper_id": 20,
+      "wallpaper_id": 16,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 20",
+      "wallpaper_name": "ember wade  16",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/49/cb/85/49cb8533e867c7dc4e4d483cf28d4147.jpg"
     },
 
 {
-      "wallpaper_id": 21,
+      "wallpaper_id": 17,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 21",
+      "wallpaper_name": "ember wade  17",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/92/9e/14/929e141a0059a363ff0431c892d0404c.jpg"
     },
 
 {
-      "wallpaper_id": 22,
+      "wallpaper_id": 18,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 22",
+      "wallpaper_name": "ember wade  18",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/49/d1/32/49d132bdac4cd6c38faf4ed7744003f5.jpg"
     },
 
 {
-      "wallpaper_id": 23,
+      "wallpaper_id": 19,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 23",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/38/50/07/38500754fffd0b5a6afb11b48875bb67.jpg"
-    },
-
-{
-      "wallpaper_id": 24,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 24",
+      "wallpaper_name": "ember wade  19",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/e6/3c/7b/e63c7b924936de2e449b18a35e8b2587.jpg"
     },
 
 {
-      "wallpaper_id": 25,
+      "wallpaper_id": 20,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 25",
+      "wallpaper_name": "ember wade  20",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/21/88/6d/21886dacf277ef432f6c448b0b82d669.jpg"
     },
 
 {
-      "wallpaper_id": 26,
+      "wallpaper_id": 21,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 26",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/b8/ee/aa/b8eeaafe2cdb11830379343f1d7e25e1.jpg"
-    },
-
-{
-      "wallpaper_id": 27,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 27",
+      "wallpaper_name": "ember wade  21",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/c3/3c/a0/c33ca021b1c1141010076f2e4e7ac7a3.jpg"
     },
 
 {
-      "wallpaper_id": 28,
+      "wallpaper_id": 22,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 28",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/3a/6f/a1/3a6fa13de798f1b7bba86da50231eeca.jpg"
-    },
-
-{
-      "wallpaper_id": 29,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 29",
+      "wallpaper_name": "ember wade  22",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/81/86/a2/8186a2a53062b3870f055e1239a29f42.jpg"
     },
 
 {
-      "wallpaper_id": 30,
+      "wallpaper_id": 23,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 30",
+      "wallpaper_name": "ember wade  23",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/68/09/04/680904b91eb37d10aefe6ca8dfacb241.jpg"
     },
 
 {
-      "wallpaper_id": 31,
+      "wallpaper_id": 24,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 31",
+      "wallpaper_name": "ember wade  24",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/29/fe/68/29fe6869937df134d0071c22c66aad5d.jpg"
     },
 
 {
-      "wallpaper_id": 32,
+      "wallpaper_id": 25,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 32",
+      "wallpaper_name": "ember wade  25",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/cb/f8/53/cbf8530ca1c1f7d82c1bdc2c3d1f22cd.jpg"
     },
 
 {
-      "wallpaper_id": 33,
+      "wallpaper_id": 26,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 33",
+      "wallpaper_name": "ember wade  26",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/75/00/b8/7500b825e2d86f872d3fe7618549ec36.jpg"
     },
 
 {
-      "wallpaper_id": 34,
+      "wallpaper_id": 27,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 34",
+      "wallpaper_name": "ember wade  27",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/18/db/c2/18dbc2dc3c84b19a34d0b50ad6ef4f53.jpg"
     },
 
 {
-      "wallpaper_id": 35,
+      "wallpaper_id": 28,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 35",
+      "wallpaper_name": "ember wade  28",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/31/fa/82/31fa82ba0a6e4a0f77d88162f07af236.jpg"
     },
 
 {
-      "wallpaper_id": 36,
+      "wallpaper_id": 29,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 36",
+      "wallpaper_name": "ember wade  29",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/51/df/69/51df694535928bfd41f9ee8f54ee0915.jpg"
     },
 
 {
-      "wallpaper_id": 37,
+      "wallpaper_id": 30,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 37",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/c6/9f/9e/c69f9ed23b0870a19f4310728becd8c3.jpg"
-    },
-
-{
-      "wallpaper_id": 38,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 38",
+      "wallpaper_name": "ember wade  30",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/40/d3/57/40d357cafbff3d6b7f317e3862110adb.jpg"
     },
 
 {
-      "wallpaper_id": 39,
+      "wallpaper_id": 31,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 39",
+      "wallpaper_name": "ember wade  31",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/52/85/b4/5285b4d85752dfc3b9cfd071aa0a76a7.jpg"
     },
 
 {
-      "wallpaper_id": 40,
+      "wallpaper_id": 32,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 40",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/a0/b0/54/a0b0540cef9398b18307a5615d5a1abb.jpg"
-    },
-
-{
-      "wallpaper_id": 41,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 41",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/75/12/47/7512476c454c4b3590f6dad99f524636.jpg"
-    },
-
-{
-      "wallpaper_id": 42,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 42",
+      "wallpaper_name": "ember wade  32",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/eb/46/70/eb4670ad6da4b718664f7facf44cf10b.jpg"
     },
 
 {
-      "wallpaper_id": 43,
+      "wallpaper_id": 33,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 43",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/cd/c4/bf/cdc4bf5b3af88112310d21a2c77e92df.jpg"
-    },
-
-{
-      "wallpaper_id": 44,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 44",
+      "wallpaper_name": "ember wade  33",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/e5/09/8c/e5098ccf0f19a9628db8f35d27ca33a7.jpg"
     },
 
 {
+      "wallpaper_id": 34,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  34",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/91/9d/0e/919d0e5b1ae0f875770be1129d90c943.jpg"
+    },
+
+{
+      "wallpaper_id": 35,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  35",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/60/fd/32/60fd32376e90887455c238b71ffb0396.jpg"
+    },
+
+{
+      "wallpaper_id": 36,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  36",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/3e/57/f5/3e57f5b1d5629465c139d06051ff9ba4.jpg"
+    },
+
+{
+      "wallpaper_id": 37,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  37",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/6e/70/c3/6e70c31b7d27bd499ecfe517c259bf12.jpg"
+    },
+
+{
+      "wallpaper_id": 38,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  38",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/b5/16/f9/b516f978feabdefeae849a68625dc262.jpg"
+    },
+
+{
+      "wallpaper_id": 39,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  39",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/da/34/bb/da34bbbe7a093bd0605cdd7f616a346e.jpg"
+    },
+
+{
+      "wallpaper_id": 40,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  40",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/fc/23/0f/fc230f3ea0e823d7e36adf7477d784a4.jpg"
+    },
+
+{
+      "wallpaper_id": 41,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  41",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/0c/97/27/0c97271c76dbd5c3bbee2e558c96e4db.jpg"
+    },
+
+{
+      "wallpaper_id": 42,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  42",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/70/3a/f1/703af1d0d6b632d549670f62f7b090b6.jpg"
+    },
+
+{
+      "wallpaper_id": 43,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  43",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/63/cf/19/63cf19330088f332deea2c0f03df3ef6.jpg"
+    },
+
+{
+      "wallpaper_id": 44,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  44",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/cc/32/0b/cc320bf1146d39e7fece3cb51c849212.jpg"
+    },
+
+{
       "wallpaper_id": 45,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 45",
+      "wallpaper_name": "ember wade  45",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/be/85/23/be8523cc5f46c6fc6bbd25215a5eafb1.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/45/bd/b1/45bdb1ce6e1d238497b8ad4b0ca3aab4.jpg"
     },
+
 {
       "wallpaper_id": 46,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 46",
+      "wallpaper_name": "ember wade  46",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/06/a5/1b/06a51b96de9ca6e159406a8128ab8b88.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/8c/07/9b/8c079b2f7498144f5199506105e33838.jpg"
     },
+
 {
       "wallpaper_id": 47,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 47",
+      "wallpaper_name": "ember wade  47",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/a5/d5/b6/a5d5b6e7a5c6c6326fb4b1fcd94a71b1.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/be/85/23/be8523cc5f46c6fc6bbd25215a5eafb1.jpg"
     },
 
 {
       "wallpaper_id": 48,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 48",
+      "wallpaper_name": "ember wade  48",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/05/71/ab/0571abc02648e3f6370f49076a41e7c2.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/98/8d/72/988d722ee0ea417039d50530e0a015a5.jpg"
     },
+
 {
       "wallpaper_id": 49,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 49",
+      "wallpaper_name": "ember wade  49",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/c8/77/ad/c877adbd334cb09c07587ce66455684e.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/5c/99/dd/5c99dd5d31601ad0b8d9cd71454266f4.jpg"
     },
+
 {
       "wallpaper_id": 50,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 50",
+      "wallpaper_name": "ember wade  50",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/91/9d/0e/919d0e5b1ae0f875770be1129d90c943.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/cd/ce/9d/cdce9db04272aeb3e46ae3b5342dd712.jpg"
     },
+
 {
       "wallpaper_id": 51,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 51",
+      "wallpaper_name": "ember wade  51",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/1b/b0/25/1bb0255450cdb54561616baa94d68e93.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/5c/53/c9/5c53c99448a05d307bd958c2e3e13c8c.jpg"
     },
+
 {
       "wallpaper_id": 52,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 52",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/60/fd/32/60fd32376e90887455c238b71ffb0396.jpg"
-    },
-{
-      "wallpaper_id": 53,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 53",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/3e/57/f5/3e57f5b1d5629465c139d06051ff9ba4.jpg"
-    },
-{
-      "wallpaper_id": 54,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 54",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/6e/70/c3/6e70c31b7d27bd499ecfe517c259bf12.jpg"
-    },
-{
-      "wallpaper_id": 55,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 55",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/b5/16/f9/b516f978feabdefeae849a68625dc262.jpg"
-    },
-{
-      "wallpaper_id": 56,
-      "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 56",
+      "wallpaper_name": "ember wade  52",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/e4/fe/c6/e4fec6f8109c6ed58b24ba541ba80cdf.jpg"
     },
+
+{
+      "wallpaper_id": 53,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  53",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/ad/75/45/ad7545fdcd70f700dafd49f2309d9aae.jpg"
+    },
+
+{
+      "wallpaper_id": 54,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  54",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/a0/c7/fc/a0c7fc28e22fe83dfb35df40a5a3b057.jpg"
+    },
+
+{
+      "wallpaper_id": 55,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  55",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/a2/83/f2/a283f2ef7ee071e639552e96265ac1f3.jpg"
+    },
+
+{
+      "wallpaper_id": 56,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  56",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/22/10/70/22107040ed8abbee4888953f1c0e827b.jpg"
+    },
+
 {
       "wallpaper_id": 57,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 57",
+      "wallpaper_name": "ember wade  57",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/da/34/bb/da34bbbe7a093bd0605cdd7f616a346e.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/7f/72/82/7f7282270d38a53c2eaaeae38646a372.jpg"
     },
+
 {
       "wallpaper_id": 58,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 58",
+      "wallpaper_name": "ember wade  58",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/46/18/1b/46181b1868203783b3330bcebf60479c.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/bb/d9/72/bbd97204e3f5ca010f91d9c6742b23b9.jpg"
     },
+
 {
       "wallpaper_id": 59,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 59",
+      "wallpaper_name": "ember wade  59",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/fc/23/0f/fc230f3ea0e823d7e36adf7477d784a4.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/fc/29/b1/fc29b136e9eb1c89221c706d08bc7f6f.jpg"
     },
+
 {
       "wallpaper_id": 60,
       "category_name": "Ember and Wade",
-      "wallpaper_name": "elemental 60",
+      "wallpaper_name": "ember wade  60",
       "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/0c/97/27/0c97271c76dbd5c3bbee2e558c96e4db.jpg"
+      "wallpaper_url":  "https://i.pinimg.com/originals/59/5c/dc/595cdcfb404a86d6cb4e7b03a0eed265.jpg"
+    },
+
+{
+      "wallpaper_id": 61,
+      "category_name": "Ember and Wade",
+      "wallpaper_name": "ember wade  61",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/fd/a1/b9/fda1b97823cc29a1cf111ac4f1ce2d60.jpg"
+    },
+
+
+	   
+{
+      "wallpaper_id": 62,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 62",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/40/7e/d8/407ed85d0a1ef7a9b45065bde4164bbd.jpg"
+    },
+
+{
+      "wallpaper_id": 63,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 63",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/26/00/1a/26001a9736d104897794b4d3e33ed916.jpg"
+    },
+
+{
+      "wallpaper_id": 64,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 64",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/e8/4c/8a/e84c8a6792d7b5fedac39fe57f77ada4.jpg"
+    },
+
+{
+      "wallpaper_id": 65,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 65",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/44/fc/1e/44fc1edf76bcbf601a85bf4b9ce14527.jpg"
+    },
+
+{
+      "wallpaper_id": 66,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 66",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/38/50/07/38500754fffd0b5a6afb11b48875bb67.jpg"
+    },
+
+{
+      "wallpaper_id": 67,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 67",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/b8/ee/aa/b8eeaafe2cdb11830379343f1d7e25e1.jpg"
+    },
+
+{
+      "wallpaper_id": 68,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 68",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/3a/6f/a1/3a6fa13de798f1b7bba86da50231eeca.jpg"
+    },
+
+{
+      "wallpaper_id": 69,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 69",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/c6/9f/9e/c69f9ed23b0870a19f4310728becd8c3.jpg"
+    },
+
+{
+      "wallpaper_id": 70,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 70",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/a0/b0/54/a0b0540cef9398b18307a5615d5a1abb.jpg"
+    },
+
+{
+      "wallpaper_id": 71,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 71",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/75/12/47/7512476c454c4b3590f6dad99f524636.jpg"
+    },
+
+{
+      "wallpaper_id": 72,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 72",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/cd/c4/bf/cdc4bf5b3af88112310d21a2c77e92df.jpg"
+    },
+
+{
+      "wallpaper_id": 73,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 73",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/06/a5/1b/06a51b96de9ca6e159406a8128ab8b88.jpg"
+    },
+
+{
+      "wallpaper_id": 74,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 74",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/a5/d5/b6/a5d5b6e7a5c6c6326fb4b1fcd94a71b1.jpg"
+    },
+
+{
+      "wallpaper_id": 75,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 75",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/05/71/ab/0571abc02648e3f6370f49076a41e7c2.jpg"
+    },
+
+{
+      "wallpaper_id": 76,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 76",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/c8/77/ad/c877adbd334cb09c07587ce66455684e.jpg"
+    },
+
+{
+      "wallpaper_id": 77,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 77",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/1b/b0/25/1bb0255450cdb54561616baa94d68e93.jpg"
+    },
+
+{
+      "wallpaper_id": 78,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 78",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/46/18/1b/46181b1868203783b3330bcebf60479c.jpg"
+    },
+
+{
+      "wallpaper_id": 79,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 79",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/2b/d5/9e/2bd59e8f8aaace4bbd36f2403657ce71.jpg"
+    },
+
+{
+      "wallpaper_id": 80,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 80",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/42/75/b3/4275b326552eab78a0c7060a4f6465ed.jpg"
+    },
+
+{
+      "wallpaper_id": 81,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 81",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/79/1c/b8/791cb80772b906e214d2d4ad0f880533.jpg"
+    },
+
+{
+      "wallpaper_id": 82,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 82",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/54/07/42/5407424cdf756b0e75699e700fa489ae.jpg"
+    },
+
+{
+      "wallpaper_id": 83,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 83",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/75/ad/7f/75ad7faa4497dc491dec7624edc53208.jpg"
+    },
+
+{
+      "wallpaper_id": 84,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 84",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/9e/b4/c6/9eb4c6a82e2b2c800d624315389fcdba.jpg"
+    },
+
+{
+      "wallpaper_id": 85,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 85",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/39/2f/f1/392ff19b4e25f0479106e854832aa8aa.jpg"
+    },
+
+{
+      "wallpaper_id": 86,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 86",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/51/9f/89/519f895635df2ca77e7524ed897eeddd.jpg"
+    },
+
+{
+      "wallpaper_id": 87,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 87",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/fc/5c/55/fc5c55cb37beca3e28fe177f4b1f2795.jpg"
+    },
+
+{
+      "wallpaper_id": 88,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 88",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/7f/ee/ae/7feeae00ed56b551cc435b82187f748c.jpg"
+    },
+
+{
+      "wallpaper_id": 89,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 89",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/04/bc/d8/04bcd8931a9988800da877da978efcdf.jpg"
+    },
+
+{
+      "wallpaper_id": 90,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 90",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/37/05/03/370503ce5e3f8e45df378696c8559698.jpg"
+    },
+
+{
+      "wallpaper_id": 91,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 91",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/b6/37/33/b6373320a689bc268fb26bb3a74fe10b.jpg"
+    },
+
+{
+      "wallpaper_id": 92,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 92",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/bb/d7/66/bbd7665d515dee5591ccf6644bf0d18e.jpg"
+    },
+
+{
+      "wallpaper_id": 93,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 93",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/67/3e/9c/673e9c7d9422f9b183388897c1b00055.jpg"
+    },
+
+{
+      "wallpaper_id": 94,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 94",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/72/b8/98/72b8984d8b2aea68738104b4d358f1c9.jpg"
+    },
+
+{
+      "wallpaper_id": 95,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 95",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/05/09/f9/0509f9339aa570a3685d3fc005df1286.jpg"
+    },
+
+{
+      "wallpaper_id": 96,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 96",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/55/57/4e/55574e6631364ef21d504b97a60be94b.jpg"
+    },
+
+{
+      "wallpaper_id": 97,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 97",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/bf/63/76/bf6376f7dcd859e5eabdae62fcf94da4.jpg"
+    },
+
+{
+      "wallpaper_id": 98,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 98",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/fb/db/04/fbdb04de9c8b212bcbc14f754ceb223c.jpg"
+    },
+
+{
+      "wallpaper_id": 99,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 99",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/19/c0/a0/19c0a076dc6480c98605b06841ac7780.jpg"
+    },
+
+{
+      "wallpaper_id": 100,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 100",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/a0/19/36/a019367ebdd8886f044815e65da99167.jpg"
+    },
+
+{
+      "wallpaper_id": 101,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 101",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/a6/32/05/a63205c488e6257f39dfde8136bb47e9.jpg"
+    },
+
+{
+      "wallpaper_id": 102,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 102",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/1d/39/42/1d3942abf64e8d8a252645b7f4fea313.png"
+    },
+
+{
+      "wallpaper_id": 103,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 103",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/cc/e4/87/cce487ccae18e539b4b5f98ad2553899.jpg"
+    },
+
+{
+      "wallpaper_id": 104,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 104",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/dd/ee/e2/ddeee2c16d5bee9b5c08dddb22bb2df2.jpg"
+    },
+
+{
+      "wallpaper_id": 105,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 105",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/a4/fd/b2/a4fdb2bf704b492e32da5e8708547a83.jpg"
+    },
+
+{
+      "wallpaper_id": 106,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 106",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/48/0e/31/480e31e540b5ae2c616596e23f3aeb8d.jpg"
+    },
+
+{
+      "wallpaper_id": 107,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 107",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/23/9a/e3/239ae3d780e6723ba455addb72f1111b.jpg"
+    },
+
+{
+      "wallpaper_id": 108,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 108",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/c6/a6/5d/c6a65d8a12fc706950ad85dab1d465af.jpg"
+    },
+
+{
+      "wallpaper_id": 109,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 109",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/af/c7/6a/afc76ac8fbaf4ccbd238c247664ca535.jpg"
+    },
+
+{
+      "wallpaper_id": 110,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 110",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/2a/ae/4b/2aae4b1941f19f8158646f12e09202fb.jpg"
+    },
+
+{
+      "wallpaper_id": 111,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 111",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/b6/82/8d/b6828d6d293542c026dccf6a0f53e24f.jpg"
+    },
+
+{
+      "wallpaper_id": 112,
+      "category_name": "Elemental Fan Art",
+      "wallpaper_name": "ember wade fan art 112",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/2c/16/ea/2c16ea66b801c985f45b61009d3e4e2d.jpg"
     }
+	   
+	   
   ],
 	
   "more_apps": [
