@@ -21,7 +21,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTERS_COUNT_WEB" : 3,
+"INTERS_COUNT_WEB" : 4,
 
 "ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -52,25 +52,24 @@
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
-"BUTTON_RATING" : "RATE APPS",
+"BUTTON_RATING" : "RATE US",
 "BUTTON_SHARE" : "SHARE",
-"BUTTON_START" : "START",
+"BUTTON_START" : "EXPLORE",
 
 "EXIT_POPUP_DIALOG" : "
-If you love this apps,
-Support us on Google Playstore
-Thank You:)
+lease, share your feedback
+Give us ratings and reviews on Playstore
 
 ",
 "RATE_BUTTON" : "RATE APPS ON PLAYSTORE",
 "LATER_BUTTON" : "LATER",
-"ENABLE_SHARE_BUTTON" : true,
+"ENABLE_SHARE_BUTTON" : false,
 "SHARE_TXT" : "
 Wow, Amazing apps. Lets install it!
 
 ",
-"MORE_BUTTON" : "SHARE TO FRIENDS",
-"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=packagename",
+"MORE_BUTTON" : "(AD)More App => SouthPark GIF Sticker",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.siduapps.appstickerssouthpark",
 
 "REDIRECT_TRAFFIC" : false,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
