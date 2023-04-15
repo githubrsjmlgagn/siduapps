@@ -9,7 +9,7 @@
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_vpn_access": false,
-      "enable_dark_mode_as_default_theme": true,
+      "enable_dark_mode_as_default_theme": false,
       "enable_app_protection": false,
       "base64_license_key": "",
       "redirect_url": "",
@@ -82,21 +82,15 @@
       "category_image": "https://i.pinimg.com/originals/cb/f1/5f/cbf15f54946785093a1f8026f01dd188.jpg",
       "url": ""
     },
-    {
+{
       "category_id": 4,
-      "category_name": "Aesthetic Wallpapers",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg",
-      "url": "https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill"
-    },
-    {
-      "category_id": 5,
-      "category_name": "More Apps on Playstore",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg",
-      "url": "https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill"
+      "category_name": "Preppy Collection #4",
+      "category_image": "https://i.pinimg.com/750x/10/76/09/107609142d0484ec3e2c365b6cd71135.jpg",
+      "url": ""
     }
-    
   ],
-  "wallpapers": [
+ 
+ "wallpapers": [
     {
       "wallpaper_id": 1,
       "category_name": "Preppy Collection #1",
@@ -3300,7 +3294,7 @@
 
 {
       "wallpaper_id": 401,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 401",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/80/9a/8b/809a8bde495776f1376dafc1c854f0a8.jpg"
@@ -3308,7 +3302,7 @@
 
 {
       "wallpaper_id": 402,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 402",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/10/76/09/107609142d0484ec3e2c365b6cd71135.jpg"
@@ -3316,7 +3310,7 @@
 
 {
       "wallpaper_id": 403,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 403",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/69/4f/29/694f29c6fb4d87984d56a641da249a84.jpg"
@@ -3324,7 +3318,7 @@
 
 {
       "wallpaper_id": 404,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 404",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f8/e8/d7/f8e8d7f9aa4c708d45a806a32faf91fd.jpg"
@@ -3332,7 +3326,7 @@
 
 {
       "wallpaper_id": 405,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 405",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/60/37/b2/6037b22574e0e952d0c068df75ec0e5b.png"
@@ -3340,7 +3334,7 @@
 
 {
       "wallpaper_id": 406,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 406",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/69/0a/39/690a39bc68b9c88f96546a2b4e46a4b0.jpg"
@@ -3348,7 +3342,7 @@
 
 {
       "wallpaper_id": 407,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 407",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/b9/16/4d/b9164d51c152a99ed66ad2268aa0ef44.jpg"
@@ -3356,7 +3350,7 @@
 
 {
       "wallpaper_id": 408,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 408",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/15/14/15/1514151844fb3f768e5b7c4a16fc670c.jpg"
@@ -3364,7 +3358,7 @@
 
 {
       "wallpaper_id": 409,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 409",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/a3/5a/cd/a35acdfd89807e88e5354d87f0de2172.jpg"
@@ -3372,7 +3366,7 @@
 
 {
       "wallpaper_id": 410,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 410",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/a3/4e/0b/a34e0be1eb5d79a23e97b9ddf414cfd0.jpg"
@@ -3380,7 +3374,7 @@
 
 {
       "wallpaper_id": 411,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 411",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/4f/17/ee/4f17ee6fcdf468e2cfb9a095f1bd31cd.jpg"
@@ -3388,7 +3382,7 @@
 
 {
       "wallpaper_id": 412,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 412",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/26/d5/67/26d5674ba0ff6c94d83d60d6c6d0f09b.jpg"
@@ -3396,7 +3390,7 @@
 
 {
       "wallpaper_id": 413,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 413",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/64/4a/5d/644a5db451bcb4ae90cbe6b06ec8da58.jpg"
@@ -3404,7 +3398,7 @@
 
 {
       "wallpaper_id": 414,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 414",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/a4/b6/0d/a4b60d3e1a3b8d4cb8e168ef6b53a318.jpg"
@@ -3412,7 +3406,7 @@
 
 {
       "wallpaper_id": 415,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 415",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/b3/f2/42/b3f242cdf08e0fb73b671477a21c427a.jpg"
@@ -3420,7 +3414,7 @@
 
 {
       "wallpaper_id": 416,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 416",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/ff/9d/2f/ff9d2fbd08b30a64d71c6e51a917b427.jpg"
@@ -3428,7 +3422,7 @@
 
 {
       "wallpaper_id": 417,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 417",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/7a/a3/b5/7aa3b51629f691a82a07a42fb2f60099.jpg"
@@ -3436,7 +3430,7 @@
 
 {
       "wallpaper_id": 418,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 418",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/b9/7b/2a/b97b2aaf340eda6890082ccc81cb4336.jpg"
@@ -3444,7 +3438,7 @@
 
 {
       "wallpaper_id": 419,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 419",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/d7/94/7b/d7947b5ee2c095ad5d45f6f962f43b96.jpg"
@@ -3452,7 +3446,7 @@
 
 {
       "wallpaper_id": 420,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 420",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/15/6e/01/156e014e703cc95e25f0db838df05d70.jpg"
@@ -3460,7 +3454,7 @@
 
 {
       "wallpaper_id": 421,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 421",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/46/7f/87/467f87296328f4700146b1bd415dbbdd.jpg"
@@ -3468,7 +3462,7 @@
 
 {
       "wallpaper_id": 422,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 422",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/a3/95/8b/a3958b25fd355c1abae8f63a063ac927.jpg"
@@ -3476,7 +3470,7 @@
 
 {
       "wallpaper_id": 423,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 423",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/77/94/5e/77945efea39df2cd51429fca65774b8a.jpg"
@@ -3484,7 +3478,7 @@
 
 {
       "wallpaper_id": 424,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 424",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/5c/83/a1/5c83a1bb2dde8bea731a3f24fcda6b68.jpg"
@@ -3492,7 +3486,7 @@
 
 {
       "wallpaper_id": 425,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 425",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/b2/32/3e/b2323e9bae955a6284d956ffa65b318b.jpg"
@@ -3500,7 +3494,7 @@
 
 {
       "wallpaper_id": 426,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 426",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/29/ca/75/29ca75edaf55009ea78a4516c9ff83a6.jpg"
@@ -3508,7 +3502,7 @@
 
 {
       "wallpaper_id": 427,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 427",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/ef/f2/32/eff2321c0d8ab73596578e4b38ae12f7.jpg"
@@ -3516,7 +3510,7 @@
 
 {
       "wallpaper_id": 428,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 428",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/44/2e/49/442e496af88aee22ad69f791f91fb5b9.jpg"
@@ -3524,7 +3518,7 @@
 
 {
       "wallpaper_id": 429,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 429",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/68/ad/64/68ad64c1337789335af0585ebd49b71a.jpg"
@@ -3532,7 +3526,7 @@
 
 {
       "wallpaper_id": 430,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 430",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/69/e1/fe/69e1fe9f6a5de77cfb58b9438998e832.jpg"
@@ -3540,7 +3534,7 @@
 
 {
       "wallpaper_id": 431,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 431",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/8f/11/bb/8f11bb2c477b05cb5d9c14b6f3967920.jpg"
@@ -3548,7 +3542,7 @@
 
 {
       "wallpaper_id": 432,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 432",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f0/32/82/f03282b4eb29ccd78de06115e31473ad.jpg"
@@ -3556,7 +3550,7 @@
 
 {
       "wallpaper_id": 433,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 433",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/4b/72/c6/4b72c60ed19e2dcca753a4cbdb530580.png"
@@ -3564,7 +3558,7 @@
 
 {
       "wallpaper_id": 434,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 434",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/eb/a4/f5/eba4f52fefb54f25bea66eac02ad61f2.jpg"
@@ -3572,7 +3566,7 @@
 
 {
       "wallpaper_id": 435,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 435",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/e6/16/39/e616394e0b6b38f264b88f265aa8b868.jpg"
@@ -3580,7 +3574,7 @@
 
 {
       "wallpaper_id": 436,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 436",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/14/94/1d/14941dc1c032d1b49b494fcfd1f747a5.jpg"
@@ -3588,7 +3582,7 @@
 
 {
       "wallpaper_id": 437,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 437",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/9f/c7/1c/9fc71ccf6b1ba258b5c34f84db06557a.jpg"
@@ -3596,7 +3590,7 @@
 
 {
       "wallpaper_id": 438,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 438",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/04/d3/ba/04d3bab6a5a9a8ad6990aa6c2acf46bd.jpg"
@@ -3604,7 +3598,7 @@
 
 {
       "wallpaper_id": 439,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 439",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/70/c7/62/70c762ab1dcead195f782aad471525ea.jpg"
@@ -3612,7 +3606,7 @@
 
 {
       "wallpaper_id": 440,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 440",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/ff/24/27/ff24275ae8f038b662257c49aa7e22ac.jpg"
@@ -3620,7 +3614,7 @@
 
 {
       "wallpaper_id": 441,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 441",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/5d/d2/f5/5dd2f520c83326dd15f965166527b106.png"
@@ -3628,7 +3622,7 @@
 
 {
       "wallpaper_id": 442,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 442",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/3f/81/6c/3f816c5a4dceb6add9c73240f5ecaf34.jpg"
@@ -3636,7 +3630,7 @@
 
 {
       "wallpaper_id": 443,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 443",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/39/44/04/39440488b1f5f6327ae1ea5c66619572.jpg"
@@ -3644,7 +3638,7 @@
 
 {
       "wallpaper_id": 444,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 444",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/72/e7/37/72e73758fca0fdd8c8e11d25308e8a48.jpg"
@@ -3652,7 +3646,7 @@
 
 {
       "wallpaper_id": 445,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 445",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/fd/32/82/fd32826a26757679197369bb0e0ce610.jpg"
@@ -3660,7 +3654,7 @@
 
 {
       "wallpaper_id": 446,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 446",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/6e/34/2d/6e342d797bf04a6b3c8f603f707543c1.jpg"
@@ -3668,7 +3662,7 @@
 
 {
       "wallpaper_id": 447,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 447",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/c8/38/70/c83870644301658cc735676d02902e9b.jpg"
@@ -3676,7 +3670,7 @@
 
 {
       "wallpaper_id": 448,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 448",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f5/ee/02/f5ee02b50e3544c0c0fbcea6d5ca187b.jpg"
@@ -3684,7 +3678,7 @@
 
 {
       "wallpaper_id": 449,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 449",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/3f/8f/60/3f8f60070fc9d56c65fc4c166e95cf87.png"
@@ -3692,7 +3686,7 @@
 
 {
       "wallpaper_id": 450,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 450",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/bd/ae/cc/bdaecca2a3d27cf8fd3861a54ab1e1a3.jpg"
@@ -3700,7 +3694,7 @@
 
 {
       "wallpaper_id": 451,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 451",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f3/61/4f/f3614f514f7e40ce5fca31a2e014cba1.jpg"
@@ -3708,7 +3702,7 @@
 
 {
       "wallpaper_id": 452,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 452",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/b7/57/2e/b7572e77921f44a9ef71e3685862526c.jpg"
@@ -3716,7 +3710,7 @@
 
 {
       "wallpaper_id": 453,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 453",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/4d/39/23/4d392315312727f4a3e63cbde8641a35.jpg"
@@ -3724,7 +3718,7 @@
 
 {
       "wallpaper_id": 454,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 454",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/8e/b0/92/8eb092c4a097add78cf2008552e4aab1.jpg"
@@ -3732,7 +3726,7 @@
 
 {
       "wallpaper_id": 455,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 455",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/b7/d6/3e/b7d63eb301d9e01a4dea3d26f724d94e.jpg"
@@ -3740,7 +3734,7 @@
 
 {
       "wallpaper_id": 456,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 456",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/37/8f/e3/378fe36b987ad381b743832ad2caaf11.jpg"
@@ -3748,7 +3742,7 @@
 
 {
       "wallpaper_id": 457,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 457",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/c6/48/ba/c648ba2591140525d60e6d265198f219.jpg"
@@ -3756,7 +3750,7 @@
 
 {
       "wallpaper_id": 458,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 458",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/d7/65/77/d765770a0de99e8692be54aa4c55a286.jpg"
@@ -3764,7 +3758,7 @@
 
 {
       "wallpaper_id": 459,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 459",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/67/70/49/677049a9b01ebfb47bffc59fa4b302ac.jpg"
@@ -3772,7 +3766,7 @@
 
 {
       "wallpaper_id": 460,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 460",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/fc/0d/0a/fc0d0afdfb4ac1155f5426bd91afb148.jpg"
@@ -3780,7 +3774,7 @@
 
 {
       "wallpaper_id": 461,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 461",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/6d/e5/85/6de585dbbbcb05441ad5c496602ddc7b.jpg"
@@ -3788,7 +3782,7 @@
 
 {
       "wallpaper_id": 462,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 462",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/18/ab/54/18ab548170ce2e0001dd4cb3bfb5b352.jpg"
@@ -3796,7 +3790,7 @@
 
 {
       "wallpaper_id": 463,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 463",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/6f/d5/e0/6fd5e075d9127d0ffd2102f5d1f4eb25.png"
@@ -3804,7 +3798,7 @@
 
 {
       "wallpaper_id": 464,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 464",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/01/af/d4/01afd4e1bfb57aa832ce8ab42f1a6376.jpg"
@@ -3812,7 +3806,7 @@
 
 {
       "wallpaper_id": 465,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 465",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/a8/8f/56/a88f56b953b42c9322edd72ae9d1dab1.jpg"
@@ -3820,7 +3814,7 @@
 
 {
       "wallpaper_id": 466,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 466",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/b9/c3/5e/b9c35ec0ded6e7b1b91923cc84ca7193.jpg"
@@ -3828,7 +3822,7 @@
 
 {
       "wallpaper_id": 467,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 467",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/7a/74/8f/7a748fe4536001f72512b01963408c55.jpg"
@@ -3836,7 +3830,7 @@
 
 {
       "wallpaper_id": 468,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 468",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/61/f1/b4/61f1b4155c032927690e4d28ab3044ee.jpg"
@@ -3844,7 +3838,7 @@
 
 {
       "wallpaper_id": 469,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 469",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/4d/bb/cc/4dbbcc55cde5afe438adbd76123c24e7.jpg"
@@ -3852,7 +3846,7 @@
 
 {
       "wallpaper_id": 470,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 470",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/5a/0e/92/5a0e92e98cc3a0a85f2f576ac8322de5.jpg"
@@ -3860,7 +3854,7 @@
 
 {
       "wallpaper_id": 471,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 471",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/63/7e/e8/637ee8a696d0027cb2b92bb83b6bf32e.jpg"
@@ -3868,7 +3862,7 @@
 
 {
       "wallpaper_id": 472,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 472",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/88/79/c4/8879c4ab796e58f1d73ee8c73c505289.jpg"
@@ -3876,7 +3870,7 @@
 
 {
       "wallpaper_id": 473,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 473",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/71/2e/0b/712e0b8a2645cf3d1f85cf5c6c573f3a.jpg"
@@ -3884,7 +3878,7 @@
 
 {
       "wallpaper_id": 474,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 474",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/79/d4/dd/79d4ddc7b233917e823dad86477bdd06.jpg"
@@ -3892,7 +3886,7 @@
 
 {
       "wallpaper_id": 475,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 475",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/20/c0/a4/20c0a48ad7ac48b8215a64f841307a17.jpg"
@@ -3900,7 +3894,7 @@
 
 {
       "wallpaper_id": 476,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 476",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f7/c4/4b/f7c44b53a4667d7f3d87aaa118ca435a.jpg"
@@ -3908,7 +3902,7 @@
 
 {
       "wallpaper_id": 477,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 477",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/6c/99/8c/6c998c0dc4e70883cdd9c7fe558d5b5d.jpg"
@@ -3916,7 +3910,7 @@
 
 {
       "wallpaper_id": 478,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 478",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/c1/03/ea/c103ea28cde3683783fbfbdcee496252.jpg"
@@ -3924,7 +3918,7 @@
 
 {
       "wallpaper_id": 479,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 479",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/8c/6b/7c/8c6b7c6bcb5cc31df9281a2094e85e76.jpg"
@@ -3932,7 +3926,7 @@
 
 {
       "wallpaper_id": 480,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 480",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/bc/e7/30/bce730414ca68ecb1f4dc588a4b88e63.jpg"
@@ -3940,7 +3934,7 @@
 
 {
       "wallpaper_id": 481,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 481",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/81/ca/c7/81cac728e21cc1912f17f3f5bad6dbdc.jpg"
@@ -3948,7 +3942,7 @@
 
 {
       "wallpaper_id": 482,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 482",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/36/9d/79/369d79f4a6e66f712590580bcca21a0c.jpg"
@@ -3956,7 +3950,7 @@
 
 {
       "wallpaper_id": 483,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 483",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/34/e0/01/34e001d8f284e8439f5e34add868a1a0.jpg"
@@ -3964,7 +3958,7 @@
 
 {
       "wallpaper_id": 484,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 484",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/a2/2d/54/a22d546f941af5a647ccedcf10ce362d.jpg"
@@ -3972,7 +3966,7 @@
 
 {
       "wallpaper_id": 485,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 485",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/70/fb/3f/70fb3f08cfca2933f3b62dbbfd9d0819.jpg"
@@ -3980,7 +3974,7 @@
 
 {
       "wallpaper_id": 486,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 486",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/3c/05/ac/3c05ac6c06f08baef7cfd8ca9b5770e2.jpg"
@@ -3988,7 +3982,7 @@
 
 {
       "wallpaper_id": 487,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 487",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/96/35/7a/96357ab125e3ed2bede103dbf8f44b85.png"
@@ -3996,7 +3990,7 @@
 
 {
       "wallpaper_id": 488,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 488",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/fa/4a/e8/fa4ae8d77cefe9cea1031456e11a7161.jpg"
@@ -4004,7 +3998,7 @@
 
 {
       "wallpaper_id": 489,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 489",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/a3/0f/3c/a30f3c90a1437ec8f4338fbca1ce0c73.jpg"
@@ -4012,7 +4006,7 @@
 
 {
       "wallpaper_id": 490,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 490",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/d5/9d/0c/d59d0caf5ef5931a59a79fe5b193be37.png"
@@ -4020,7 +4014,7 @@
 
 {
       "wallpaper_id": 491,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 491",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/28/d2/6e/28d26e99f0005f9b2467c0ee91ffa4c0.jpg"
@@ -4028,7 +4022,7 @@
 
 {
       "wallpaper_id": 492,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 492",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/ef/b7/5d/efb75d11af287493f74a94f58dd57bc3.jpg"
@@ -4036,7 +4030,7 @@
 
 {
       "wallpaper_id": 493,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 493",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/750x/e0/16/04/e01604dc525a5a0eb3fdb61521c88b15.jpg"
@@ -4044,7 +4038,7 @@
 
 {
       "wallpaper_id": 494,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 494",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/50/2a/84/502a8432decce5e3d226a9935338024e.jpg"
@@ -4052,7 +4046,7 @@
 
 {
       "wallpaper_id": 495,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 495",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/f0/9c/bb/f09cbb3eb62a929941322fb3dcc8d27f.jpg"
@@ -4060,7 +4054,7 @@
 
 {
       "wallpaper_id": 496,
-      "category_name": "Preppy Collection #3",
+      "category_name": "Preppy Collection #4",
       "wallpaper_name": "Preppy Wallpaper 496",
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/01/71/42/0171424efd87dff9a22cc6fcd043b67a.jpg"
