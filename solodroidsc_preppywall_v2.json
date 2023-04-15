@@ -84,10 +84,17 @@
     },
     {
       "category_id": 4,
-      "category_name": "Forest",
+      "category_name": "Aesthetic Wallpapers",
+      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill"
+    },
+    {
+      "category_id": 5,
+      "category_name": "More Apps on Playstore",
       "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg",
       "url": "https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill"
     }
+    
   ],
   "wallpapers": [
     {
