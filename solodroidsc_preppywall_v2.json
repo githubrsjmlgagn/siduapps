@@ -9,7 +9,7 @@
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_vpn_access": false,
-      "enable_dark_mode_as_default_theme": false,
+      "enable_dark_mode_as_default_theme": true,
       "enable_app_protection": false,
       "base64_license_key": "",
       "redirect_url": "",
