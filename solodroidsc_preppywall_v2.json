@@ -82,7 +82,19 @@
       "category_image": "https://i.pinimg.com/originals/cb/f1/5f/cbf15f54946785093a1f8026f01dd188.jpg",
       "url": ""
     },
-{
+    {
+      "category_id": 5,
+      "category_name": "Cute Girly Wallpapers",
+      "category_image": "https://i.pinimg.com/564x/9b/5a/51/9b5a512d1f447ae6307a084f819e6464.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.cute.girly.aesthetic"
+    },
+    {
+      "category_id": 6,
+      "category_name": "Pastel Wallpapers",
+      "category_image": "https://i.pinimg.com/564x/f6/99/e3/f699e395412f96ef9028b16836a520f0.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
+    },
+    {
       "category_id": 4,
       "category_name": "Preppy Collection #4",
       "category_image": "https://i.pinimg.com/750x/10/76/09/107609142d0484ec3e2c365b6cd71135.jpg",
