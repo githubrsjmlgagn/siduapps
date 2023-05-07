@@ -4,9 +4,9 @@
     "Cute Kawaii", "Kawaii Aesthetic", "Unicorn", "Sanrio", "Adorable Cute Bear", "Cute Pattern", "Molang"
   ],
   "init_jumlah_photo": 200,
-  "admob_banner_id": "",
-  "admob_interstitial_id": "",
-  "admob_native_id": "",
+  "admob_banner_id": "ca-app-pub-9342995916783234/9973748277",
+  "admob_interstitial_id": "ca-app-pub-9342995916783234/3408339925",
+  "admob_native_id": "ca-app-pub-9342995916783234/9782176587",
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
@@ -22,7 +22,7 @@
   "max_banner": "",
   "max_interstitial": "",
   "max_native": "",
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 5,
   "list_ads": [
     "ADMOB",
     "UNITY",
