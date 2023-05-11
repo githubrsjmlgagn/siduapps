@@ -22,7 +22,7 @@
   "max_banner": "",
   "max_interstitial": "",
   "max_native": "",
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 3,
   "list_ads": [
     "ADMOB",
     "UNITY",
