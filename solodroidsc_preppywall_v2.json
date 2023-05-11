@@ -59,7 +59,7 @@
       "show_interstitial_ad_wallpaper_details": true,
       "show_native_ad_wallpaper_list": true,
       "show_native_ad_wallpaper_details": true,
-      "show_open_ad_on_app_start": false,
+      "show_open_ad_on_app_start": true,
       "show_open_ad_on_app_resume": true
     }
   ],
@@ -69,6 +69,12 @@
       "category_name": "Preppy Collection #1",
       "category_image": "https://i.pinimg.com/originals/12/2d/9c/122d9c8ac21c5346fa1503b55a681198.jpg",
       "url": ""
+    },
+    {
+      "category_id": 5,
+      "category_name": "Cute Girly Wallpapers",
+      "category_image": "https://i.pinimg.com/564x/9b/5a/51/9b5a512d1f447ae6307a084f819e6464.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.cute.girly.aesthetic"
     },
     {
       "category_id": 2,
@@ -82,7 +88,12 @@
       "category_image": "https://i.pinimg.com/originals/cb/f1/5f/cbf15f54946785093a1f8026f01dd188.jpg",
       "url": ""
     },
-    
+    {
+      "category_id": 6,
+      "category_name": "Pastel Wallpapers",
+      "category_image": "https://i.pinimg.com/564x/f6/99/e3/f699e395412f96ef9028b16836a520f0.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
+    },
     {
       "category_id": 4,
       "category_name": "Preppy Collection #4",
