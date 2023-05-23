@@ -71,22 +71,46 @@
 	"url": ""
     },
     {
+      "category_id": 11,
+      "category_name": "Kawaii Cute Stickers",
+      "category_image": "https://i.pinimg.com/564x/72/3b/e0/723be09e4fa3c244261e192afe7c22e7.jpg",
+	"url": "https://play.google.com/store/apps/details?id=com.siduapps.appstickerpusheencat"
+    },
+    {
       "category_id": 2,
       "category_name": "Kawaii Images 2",
       "category_image": "https://i.pinimg.com/564x/ea/08/4b/ea084b9bfbb35d5bc5e6f7cda283354f.jpg",
 	"url": ""
     },
-	{
+    {
+      "category_id": 12,
+      "category_name": "Blue Koala Stickers",
+      "category_image": "https://i.pinimg.com/564x/dd/d6/05/ddd6050ef2ab6779c8f588cc8c08a41f.jpg",
+	"url": "https://play.google.com/store/apps/details?id=com.siduapps.appstickersbluekoala"
+    },
+    {
       "category_id": 3,
       "category_name": "Kawaii Images 3",
       "category_image": "https://i.pinimg.com/564x/46/04/47/460447ea64b43660e6b641d3200d8b05.jpg",
 	"url": ""
+    },
+    {
+      "category_id": 13,
+      "category_name": "Kawaii Character Wallpapers",
+      "category_image": "https://play-lh.googleusercontent.com/Omly59qJJhINTUuHxW-PsLm0g9lUQpc6GTLLymtuL3P8C0rTWYWcXss4Z3QveVrX6tw=w2560-h1440-rw",
+	"url": "https://play.google.com/store/apps/details?id=com.siduapps.cute.girly.wallpaper"
     },
 	{
       "category_id": 4,
       "category_name": "Kawaii Images 4",
       "category_image": "https://i.pinimg.com/736x/a1/ce/cf/a1cecf4857292546daaeaf872782fed5.jpg",
 	"url": ""
+    },
+	  {
+      "category_id": 14,
+      "category_name": "Cute Girly Wallpapers",
+      "category_image": "https://play-lh.googleusercontent.com/nOfeY6v1XwpLh-BiBF4CFXPu-C2-8sw_6ajFveMl-MvnP8p8K9Miy28oiNVE9jmZsL0=w2560-h1440-rw",
+	"url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.cute.girly.aesthetic"
     },
     {
       "category_id": 5,
