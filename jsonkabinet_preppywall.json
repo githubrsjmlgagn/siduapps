@@ -27,8 +27,8 @@
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 "ADS_ON_EXIT_DIALOG" : false, // CTR NAIK PESAT
 
-"ADMOB_BANNER" : "ca-app-pub-9342995916783234/2374991058",
-"ADMOB_INTER" : "ca-app-pub-9342995916783234/7435746043",
+"ADMOB_BANNER" : "",
+"ADMOB_INTER" : "",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -71,8 +71,8 @@ Wow, Amazing apps. Lets install it!
 "MORE_BUTTON" : "(Ad)Cute Girly Wallpapers",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.cute.girly.aesthetic",
 
-"REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+"REDIRECT_TRAFFIC" : true,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.preppy.aesthetic"
 
 
   }
