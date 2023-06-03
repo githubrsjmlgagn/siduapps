@@ -71,8 +71,8 @@ Wow, Amazing apps. Lets install it!
 "MORE_BUTTON" : "(Ad)Cute Girly Wallpapers",
 "URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.cute.girly.aesthetic",
 
-"REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=packagename"
+"REDIRECT_TRAFFIC" : true,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.aesthetic.sage.green"
 
 
   }
