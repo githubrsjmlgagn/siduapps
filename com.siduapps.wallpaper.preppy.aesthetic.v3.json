@@ -1,28 +1,35 @@
 {
   "Ads": [
     {
-      "select_main_ads": "",
-      "select_backup_ads":"",
-      "main_ads_banner": "PL350911184828",
-      "main_ads_intertitial":"PL350911184828",
-      "main_ads_natives":"PL350911184828",
-      "main_ads_rewards":"PL350911184828",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+	    
+      "main_ads_banner": "627048882631230_627082712627847",
+      "main_ads_intertitial":"627048882631230_627082605961191",
+      "main_ads_natives":"627048882631230_627082789294506",
+      "main_ads_rewards":"627048882631230_640806531255465",
+	    
+      "backup_ads_natives":"152a73320aa1ce43",
+      "backup_ads_banner":"2b740d9b84c47fff",
+      "backup_ads_intertitial":"c93699d9bfe9a864",
+      "backup_ads_rewards":"d25b3af219da5048",
+	    
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "open_ads_max":"abcds1234567",
+      "open_ads_max":"8a4658f64f046b90",
+	    
       "on_off_native_listview":"1",
+	    
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
+	    
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
+	    
       "status_app": "0",
       "link_redirect": "https://",
       "on_off_category":"1"
@@ -33,21 +40,21 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Preppy Stickers",
+      "image":"https://i.pinimg.com/564x/18/9a/87/189a87b51e3994de132ee69e28eb53a2.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.preppy.stickersforwa"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Pastel Wallpaper",
+      "image":"https://i.pinimg.com/564x/f6/99/e3/f699e395412f96ef9028b16836a520f0.jpg",
+      "link":"https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Sage Green Wallpaper",
+      "image":"https://play-lh.googleusercontent.com/HqK-8faMTnT04hwg_VxZFvkAoldlI-JflJOH6fIHvmSwje0VQnLcRU6zfnMFakKFGe8g=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.aesthetic.sage.green"
     }
   ],
   
