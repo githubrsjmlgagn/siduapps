@@ -19,14 +19,14 @@
   "unity_id": "",
   "unity_banner": "",
   "unity_interstitial": "",
-  "max_banner": "",
-  "max_interstitial": "",
-  "max_native": "",
+  "max_banner": "84db4a429ef216be",
+  "max_interstitial": "ef169c1751b98326",
+  "max_native": "d90fc0f7ccff665c",
   "interstitial_inverval": 3,
   "list_ads": [
-    "ADMOB",
+    "MAX",
     "UNITY",
     "STARTAPP",
-    "MAX"
+    "ADMOB"
   ]
 }
