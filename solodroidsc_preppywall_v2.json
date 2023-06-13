@@ -20,7 +20,7 @@
     {
       "ad_status": 1,
       "main_ad": "fan",
-      "backup_ad": "fan",
+      "backup_ad": "applovin_max",
       "admob_banner_unit_id": "ca-app-pub-9342995916783234/9838490635",
       "admob_interstitial_unit_id": "ca-app-pub-9342995916783234/4399795223",
       "admob_native_unit_id": "ca-app-pub-9342995916783234/7212327298",
