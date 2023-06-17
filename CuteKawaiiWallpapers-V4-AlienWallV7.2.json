@@ -42,24 +42,43 @@
   [
     {
       "id":1,
+      "title":"Cute Stickers WA",
+      "image":"https://play-lh.googleusercontent.com/zJA95rY4MthXpn3-1ZKQm8T7jZoZhtDswdAwOzYkbUjojUrq5mxkYzeFBYbZ6nGAjg=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.siduapps.appstickerpusheencat"
+    },
+    {
+      "id":2,
+      "title":"Cute Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/Nm2aFOB_8uakzCIkP6lfEEkCWto_7VfO2kFUmbBIwZaY6mrs6xkJrA98AW0gwDax8g=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.siduapps.cute.girly.wallpaper"
+    },
+    {
+      "id":3,
+      "title":"Kawaii Wallpapers",
+      "image":"https://play-lh.googleusercontent.com/bxPEBNUFgRcb5GepCWZDvj9n9MkMj2nDlZrwA43dtz64PQZbTPlESsKeG4oseXJGRBw=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.siduapps.pusheen.cat.wallpaper"
+    },
+    {
+      "id":4,
       "title":"Preppy Stickers",
       "image":"https://i.pinimg.com/564x/18/9a/87/189a87b51e3994de132ee69e28eb53a2.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.preppy.stickersforwa"
     },
+	  
     {
-      "id":2,
+      "id":5,
       "title":"Pastel Wallpaper",
       "image":"https://i.pinimg.com/564x/f6/99/e3/f699e395412f96ef9028b16836a520f0.jpg",
       "link":"https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
     },
     {
-      "id":3,
+      "id":6,
       "title":"Sage Green Wallpaper",
       "image":"https://play-lh.googleusercontent.com/HqK-8faMTnT04hwg_VxZFvkAoldlI-JflJOH6fIHvmSwje0VQnLcRU6zfnMFakKFGe8g=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.aesthetic.sage.green"
     },
-	  {
-      "id":4,
+    {
+      "id":7,
       "title":"Preppy Wallpaper",
       "image":"https://play-lh.googleusercontent.com/iK32rlrtOvBdeISE1abxu2hzWTHp13BOiGnzwpo5LVHYQmDCWBW8_6gdYhxHI6BOXc8=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.preppy.aesthetic"
