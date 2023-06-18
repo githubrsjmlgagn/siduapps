@@ -1,18 +1,18 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"FACEBOOK",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-D",
 	    
-      "backup_ads_banner": "627048882631230_627082712627847",
-      "backup_ads_intertitial":"627048882631230_627082605961191",
-      "backup_ads_natives":"627048882631230_627082789294506",
-      "backup_ads_rewards":"627048882631230_640806531255465",
+      "main_ads_banner": "627048882631230_627082712627847",
+      "main_ads_intertitial":"627048882631230_627082605961191",
+      "main_ads_natives":"627048882631230_627082789294506",
+      "main_ads_rewards":"627048882631230_640806531255465",
 	    
-      "main_ads_banner":"2b740d9b84c47fff",
-      "main_ads_intertitial":"c93699d9bfe9a864",
-      "main_ads_natives":"152a73320aa1ce43",
-      "main_ads_rewards":"d25b3af219da5048",
+      "backup_ads_banner":"2b740d9b84c47fff",
+      "backup_ads_intertitial":"c93699d9bfe9a864",
+      "backup_ads_natives":"152a73320aa1ce43",
+      "backup_ads_rewards":"d25b3af219da5048",
 	    
       "open_ads_admob":"",
       "open_ads_alien":"",
@@ -24,11 +24,11 @@
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
 	    
-      "high_paying_keyword_1": "insurance",
-      "high_paying_keyword_2": "finance",
-      "high_paying_keyword_3": "Business",
-      "high_paying_keyword_4": "Preppy outfit",
-      "high_paying_keyword_5": "crypto",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
 	    
       "status_app": "0",
       "link_redirect": "https://",
