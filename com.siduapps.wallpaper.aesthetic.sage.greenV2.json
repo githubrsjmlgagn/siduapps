@@ -20,7 +20,7 @@
     {
       "ad_status": 1,
       "main_ad": "fan",
-      "backup_ad": "none",
+      "backup_ad": "fan",
       "admob_banner_unit_id": "",
       "admob_interstitial_unit_id": "",
       "admob_native_unit_id": "",
