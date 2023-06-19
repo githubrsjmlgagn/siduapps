@@ -20,6 +20,7 @@
       "open_ads_wortise": "test-app-open",
 	    
       "on_off_native_listview":"1",
+      "interval_native": 7,
 	    
       "interval_intertitial": 3,
       "initialize_sdk":"d71920ab-d32e-4f7a-a390-ef852536371a",
