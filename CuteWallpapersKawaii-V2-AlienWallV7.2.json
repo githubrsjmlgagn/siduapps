@@ -1,18 +1,18 @@
 {
   "Ads": [
     {
-      "select_main_ads": "WORTISE",
-      "select_backup_ads":"FACEBOOK",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"WORTISE",
 	    
-      "main_ads_banner":"a861a7f6-018f-467c-90a2-c35a3439dc39",
-      "main_ads_intertitial":"dfc7f80e-04ab-4944-aeb0-d07aa77931fc",
-      "main_ads_natives":"63a80b10-3100-48c1-a79c-97c4adc971e1",
-      "main_ads_rewards":"cfe0b136-4d05-4949-9308-f625048ec107",
+      "backup_ads_banner":"a861a7f6-018f-467c-90a2-c35a3439dc39",
+      "backup_ads_intertitial":"dfc7f80e-04ab-4944-aeb0-d07aa77931fc",
+      "backup_ads_natives":"63a80b10-3100-48c1-a79c-97c4adc971e1",
+      "backup_ads_rewards":"cfe0b136-4d05-4949-9308-f625048ec107",
 	    
-      "backup_ads_banner":"224076270547953_224079110547669",
-      "backup_ads_intertitial":"224076270547953_224079297214317",
-      "backup_ads_natives":"224076270547953_224080163880897",
-      "backup_ads_rewards":"",
+      "main_ads_banner":"224076270547953_224079110547669",
+      "main_ads_intertitial":"224076270547953_224079297214317",
+      "main_ads_natives":"224076270547953_224080163880897",
+      "main_ads_rewards":"",
 	    
       "open_ads_admob":"",
       "open_ads_alien":"",
@@ -22,7 +22,7 @@
       "on_off_native_listview":"1",
       "interval_native": 7,
 	    
-      "interval_intertitial": 3,
+      "interval_intertitial": 5,
       "initialize_sdk":"d71920ab-d32e-4f7a-a390-ef852536371a",
       "initialize_sdk_backup_ads":"",
 	    
