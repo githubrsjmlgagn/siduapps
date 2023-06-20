@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"WORTISE",
+      "select_backup_ads":"",
 	    
       "backup_ads_banner":"a861a7f6-018f-467c-90a2-c35a3439dc39",
       "backup_ads_intertitial":"dfc7f80e-04ab-4944-aeb0-d07aa77931fc",
