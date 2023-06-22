@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"",
+      "select_backup_ads":"WORTISE",
 	    
       "backup_ads_banner":"a861a7f6-018f-467c-90a2-c35a3439dc39",
       "backup_ads_intertitial":"dfc7f80e-04ab-4944-aeb0-d07aa77931fc",
@@ -20,9 +20,9 @@
       "open_ads_wortise": "98c36334-a871-4efb-b941-fed8afb86a6a",
 	    
       "on_off_native_listview":"1",
-      "interval_native": 7,
+      "interval_native": 5,
 	    
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"d71920ab-d32e-4f7a-a390-ef852536371a",
 	    
