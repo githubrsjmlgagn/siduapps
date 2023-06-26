@@ -10,8 +10,8 @@
       "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": false,
-      "enable_app_protection": false,
-      "base64_license_key": "",
+      "enable_app_protection": true,
+      "base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhQ3WRzmGynEUblKXA2EfWdFs02xmlZhiH16xNyBKEvTKb4Su4epYDu/Ys0q0kiGE5M/salSPGu+oZu1nMV3wjlp01z8hhjWDaSxZqEIT11ncU+OFVXEvoER1GzQy4wmP5RWRSMyxHfwBbKIqNo14JNpMQRbY0fhx6yX9cr9ycFL+DzN7v4VhUV0Ce6vBDRpY81w9fOvC7o2cN/3SBTqDIqfKbhkdF8PSjFfkEb/41mnKMnhlV0w2d3sNdFJx4SzmJcuV2PeqoTcv5TFvneDSNrRuFugh+PLpmx1D6rPwM5s00qiF+ItrIM8o5B6jEZapMEHA/eh+nQWaxSYN8/lCWQIDAQAB",
       "redirect_url": "",
       "privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
     }
