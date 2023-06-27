@@ -45,7 +45,7 @@
       "ironsource_app_key": "85460dcd",
       "ironsource_banner_id": "DefaultBanner",
       "ironsource_interstitial_id": "DefaultInterstitial",
-      "interstitial_ad_interval": 2,
+      "interstitial_ad_interval": 3,
       "native_ad_index_grid2": 2,
       "native_ad_index_grid3": 6,
       "native_ad_interval_grid2": 7,
