@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "status": 1,
+      "status": 0,
       "featured_categories": "",
       "show_wallpaper_name": false,
       "show_wallpaper_category": false,
@@ -12,7 +12,7 @@
       "enable_dark_mode_as_default_theme": false,
       "enable_app_protection": false,
       "base64_license_key": "",
-      "redirect_url": "",
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.aesthetic.sage.green",
       "privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
     }
   ], 
