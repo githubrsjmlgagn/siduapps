@@ -10,15 +10,15 @@
       "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": false,
-      "enable_app_protection": false,
-      "base64_license_key": "",
+      "enable_app_protection": true,
+      "base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4+1CEWp2wYLhGfuPqP37lgsHHm5NzipaFso5XV3VI00GnzMvUS+gIcfVIvMgTYTiB7ebd8FikClVJg2Yab6AhR2vLU71nJDkSyv+VBTSqENDdxTux7PHwJ9/Vk+3qfpMqE6LF+BLbWn11IK7GFFcKBlRTAg4orX72P5i3arNprETQMl1TRuOlVHOsnndug1ZmfWH38QqnVg5RyCy4hGPobfY1ZfGBnXJ6ClebZzhvEHb3NLrv1DgUkpSBh3LtVhOAIqXTXPZSWxx2IG6nqJKhJkoS2WlTXnmRrcOTW33T86VyFbzvSzgkIHEvlZlIh0KgGJeJFX97kP6JBy5iqGn1wIDAQAB",
       "redirect_url": "",
       "privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
     }
   ], 
   "ads": [
     {
-      "ad_status": 1,
+      "ad_status": 0,
       "main_ad": "fan",
       "backup_ad": "fan",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/2934735716",
@@ -123,6 +123,151 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/20/ee/2c/20ee2cfdeceddd34fa32567a602fdc5e.jpg"
     },
+
+	 {
+      "wallpaper_id": 244,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 244",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/da/44/b7/da44b7b8698d59cab167010b3003ac24.jpg"
+    },
+
+{
+      "wallpaper_id": 245,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 245",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/d3/51/18/d3511804fb9bfbf79a8773108667c69c.jpg"
+    },
+
+{
+      "wallpaper_id": 246,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 246",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/ed/05/ba/ed05bab06216187cc88ba8bddf04e75e.jpg"
+    },
+
+{
+      "wallpaper_id": 247,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 247",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/cd/14/90/cd1490dc9a3e5c7d56e81fddf89c0fe6.png"
+    },
+
+{
+      "wallpaper_id": 248,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 248",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/93/39/46/93394660f8a2b5f70a0e74360bb0b475.jpg"
+    },
+
+{
+      "wallpaper_id": 249,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 249",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/a8/dc/85/a8dc856fad60cef009019e3c46b6d391.jpg"
+    },
+
+{
+      "wallpaper_id": 250,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 250",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/42/64/d7/4264d75b64135d4f1f2819fbc72df5dd.jpg"
+    },
+
+{
+      "wallpaper_id": 251,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 251",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/8a/7b/85/8a7b851edb8aaf0d30f7ee192fa00f62.jpg"
+    },
+
+{
+      "wallpaper_id": 252,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 252",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/c8/e1/77/c8e1775990bcb94e769dc145f3d38f91.jpg"
+    },
+
+{
+      "wallpaper_id": 253,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 253",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/f6/ed/98/f6ed981b4df298df94ef9dc66f1c5736.jpg"
+    },
+
+{
+      "wallpaper_id": 254,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 254",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/fb/3b/ea/fb3bea64951b69e7cff9a0be32af6a72.jpg"
+    },
+
+{
+      "wallpaper_id": 255,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 255",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/6e/e8/e7/6ee8e70fd705888c566d2f611dd8ff63.jpg"
+    },
+
+{
+      "wallpaper_id": 256,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 256",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/f1/ba/6b/f1ba6b126e6dc4f439b0359e9eaeafc1.jpg"
+    },
+
+{
+      "wallpaper_id": 257,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 257",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/df/a6/69/dfa66916e9fe26b7a4abef713caafe15.jpg"
+    },
+
+{
+      "wallpaper_id": 258,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 258",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/56/62/cf/5662cfb2809075f38c1eb0e5d886d74c.jpg"
+    },
+
+{
+      "wallpaper_id": 259,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 259",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/09/d2/7f/09d27faa758229ee238eab998260df40.jpg"
+    },
+
+{
+      "wallpaper_id": 260,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 260",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/6d/79/ff/6d79ff49d36ec547f64db26276a5f548.jpg"
+    },
+
+{
+      "wallpaper_id": 261,
+      "category_name": "Cute Characters",
+      "wallpaper_name": "cute kawaii 261",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url":  "https://i.pinimg.com/originals/11/72/4c/11724cc6d8a356f6319a83a90a651beb.jpg"
+    },
+
 
 {
       "wallpaper_id": 904,
@@ -2581,149 +2726,6 @@
       "wallpaper_url":  "https://i.pinimg.com/originals/f3/8f/f1/f38ff1acbef548a6dc71ea7592fd0bae.jpg"
     },
 
-{
-      "wallpaper_id": 244,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 244",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/da/44/b7/da44b7b8698d59cab167010b3003ac24.jpg"
-    },
-
-{
-      "wallpaper_id": 245,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 245",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/d3/51/18/d3511804fb9bfbf79a8773108667c69c.jpg"
-    },
-
-{
-      "wallpaper_id": 246,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 246",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/ed/05/ba/ed05bab06216187cc88ba8bddf04e75e.jpg"
-    },
-
-{
-      "wallpaper_id": 247,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 247",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/cd/14/90/cd1490dc9a3e5c7d56e81fddf89c0fe6.png"
-    },
-
-{
-      "wallpaper_id": 248,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 248",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/93/39/46/93394660f8a2b5f70a0e74360bb0b475.jpg"
-    },
-
-{
-      "wallpaper_id": 249,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 249",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/a8/dc/85/a8dc856fad60cef009019e3c46b6d391.jpg"
-    },
-
-{
-      "wallpaper_id": 250,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 250",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/42/64/d7/4264d75b64135d4f1f2819fbc72df5dd.jpg"
-    },
-
-{
-      "wallpaper_id": 251,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 251",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/8a/7b/85/8a7b851edb8aaf0d30f7ee192fa00f62.jpg"
-    },
-
-{
-      "wallpaper_id": 252,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 252",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/c8/e1/77/c8e1775990bcb94e769dc145f3d38f91.jpg"
-    },
-
-{
-      "wallpaper_id": 253,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 253",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/f6/ed/98/f6ed981b4df298df94ef9dc66f1c5736.jpg"
-    },
-
-{
-      "wallpaper_id": 254,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 254",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/fb/3b/ea/fb3bea64951b69e7cff9a0be32af6a72.jpg"
-    },
-
-{
-      "wallpaper_id": 255,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 255",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/6e/e8/e7/6ee8e70fd705888c566d2f611dd8ff63.jpg"
-    },
-
-{
-      "wallpaper_id": 256,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 256",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/f1/ba/6b/f1ba6b126e6dc4f439b0359e9eaeafc1.jpg"
-    },
-
-{
-      "wallpaper_id": 257,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 257",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/df/a6/69/dfa66916e9fe26b7a4abef713caafe15.jpg"
-    },
-
-{
-      "wallpaper_id": 258,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 258",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/56/62/cf/5662cfb2809075f38c1eb0e5d886d74c.jpg"
-    },
-
-{
-      "wallpaper_id": 259,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 259",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/09/d2/7f/09d27faa758229ee238eab998260df40.jpg"
-    },
-
-{
-      "wallpaper_id": 260,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 260",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/6d/79/ff/6d79ff49d36ec547f64db26276a5f548.jpg"
-    },
-
-{
-      "wallpaper_id": 261,
-      "category_name": "Cute Characters",
-      "wallpaper_name": "cute kawaii 261",
-      "wallpaper_thumbnail": "",
-      "wallpaper_url":  "https://i.pinimg.com/originals/11/72/4c/11724cc6d8a356f6319a83a90a651beb.jpg"
-    },
 
 {
       "wallpaper_id": 262,
