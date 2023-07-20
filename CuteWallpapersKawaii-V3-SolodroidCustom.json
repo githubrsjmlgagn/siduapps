@@ -26,9 +26,9 @@
 		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
 		"ad_manager_native_unit_id": "/6499/example/native",
 		"ad_manager_app_open_unit_id": "/6499/example/app-open",
-		"fan_banner_unit_id": "572440834879660_573319628125114",
-		"fan_interstitial_unit_id": "572440834879660_573320014791742",
-		"fan_native_unit_id": "572440834879660_573319481458462",
+		"fan_banner_unit_id": "",
+		"fan_interstitial_unit_id": "",
+		"fan_native_unit_id": "",
 		"startapp_app_id": "0",
 		"unity_game_id": "5304731",
 		"unity_banner_placement_id": "Banner_Android",
@@ -59,18 +59,7 @@
 		"show_open_ad_on_app_start": true,
 		"show_open_ad_on_app_resume": true
 	}],
-	"categories": [{
-			"category_id": 11,
-			"category_name": "Cute Wallpapers 3D Puffy",
-			"category_image": "https://play-lh.googleusercontent.com/lmS1oAMYz706lUuDIWOBHhT1kf3q4Dqn1_-tOMEkgWp3O_GKmcI7qoDCuj_YaZ4Gjz6U=w526-h296-rw",
-			"url": "https://play.google.com/store/apps/details?id=com.kawaii.aesthetic.puffy.wallpaper"
-		},
-		{
-			"category_id": 12,
-			"category_name": "Kawaii Aesthetic Wallpaper",
-			"category_image": "https://play-lh.googleusercontent.com/-q1gVvU77m801kb_Te47ZhnjGqXFU-CrifrAOH-FKFvYfq_Alv6zY1C_di6c3tO25w=w240-h480-rw",
-			"url": "https://play.google.com/store/apps/details?id=com.siduapps.cute.girly.wallpaper"
-		},
+	"categories": [
 		{
 			"category_id": 1,
 			"category_name": "Kawaii Aesthetic",
@@ -346,1435 +335,1435 @@
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1751,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1751",
 			"wallpaper_url": "https://i.pinimg.com/originals/d4/40/55/d44055f510dc8593a30b0a6c6d174a1b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1752,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1752",
 			"wallpaper_url": "https://i.pinimg.com/originals/27/1c/5a/271c5a42c56076c6e60999bbb0fd4b63.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1753,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1753",
 			"wallpaper_url": "https://i.pinimg.com/originals/35/34/d0/3534d0d74d8cbf674a9d074da78f1e7d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1754,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1754",
 			"wallpaper_url": "https://i.pinimg.com/originals/49/1e/3f/491e3f5fa488e85903888a5e20439b1a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1755,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1755",
 			"wallpaper_url": "https://i.pinimg.com/originals/b4/f9/59/b4f95983cdbb2622aafe314a24a9a408.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1756,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1756",
 			"wallpaper_url": "https://i.pinimg.com/originals/04/b8/c9/04b8c96ad2cd9c66e924371c3edbca58.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1757,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1757",
 			"wallpaper_url": "https://i.pinimg.com/originals/e6/5e/f2/e65ef23b46a1b20dbc710de85a472afd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1758,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1758",
 			"wallpaper_url": "https://i.pinimg.com/originals/d1/21/03/d12103a6d264e766bade750620bef642.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1759,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1759",
 			"wallpaper_url": "https://i.pinimg.com/originals/53/29/df/5329dfffe580994015d587590a6e2fae.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1760,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1760",
 			"wallpaper_url": "https://i.pinimg.com/originals/b5/49/cb/b549cb3ac56c8923b49d0c92968ec4bb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1761,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1761",
 			"wallpaper_url": "https://i.pinimg.com/originals/8d/80/de/8d80de58407fa5bcdf3470595081ae4c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1762,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1762",
 			"wallpaper_url": "https://i.pinimg.com/originals/42/d4/d8/42d4d802e6ee8b138c90ec76ee57bff4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1763,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1763",
 			"wallpaper_url": "https://i.pinimg.com/originals/1c/07/39/1c07399d59e7452df9589d7757e61828.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1764,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1764",
 			"wallpaper_url": "https://i.pinimg.com/originals/1e/41/13/1e411321ef946cdcea578b04bfa2c890.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1765,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1765",
 			"wallpaper_url": "https://i.pinimg.com/originals/60/f3/48/60f348ab02bf4351a2d06e5b8cb2626e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1766,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1766",
 			"wallpaper_url": "https://i.pinimg.com/originals/40/58/45/40584589fc382581b255f0d1bd5baabf.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1767,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1767",
 			"wallpaper_url": "https://i.pinimg.com/originals/90/66/c6/9066c638bbc9c6f554f34dcf9d4ebe4e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1768,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1768",
 			"wallpaper_url": "https://i.pinimg.com/originals/5c/9a/75/5c9a75191d3a88cd02930acde822a157.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1769,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1769",
 			"wallpaper_url": "https://i.pinimg.com/originals/0f/6f/20/0f6f2082a5e457aba442d7f01202598c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1770,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1770",
 			"wallpaper_url": "https://i.pinimg.com/originals/ce/23/fa/ce23fae87a9c44f136d14ef3d1bd65ab.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1771,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1771",
 			"wallpaper_url": "https://i.pinimg.com/originals/b7/a7/6a/b7a76a82517c0d2d0c9e732b0c9edfb6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1772,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1772",
 			"wallpaper_url": "https://i.pinimg.com/originals/14/7b/c1/147bc1d393519699e7545ef010567887.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1773,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1773",
 			"wallpaper_url": "https://i.pinimg.com/originals/5c/72/33/5c72332b8c85a555cf3da447a9b4c039.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1774,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1774",
 			"wallpaper_url": "https://i.pinimg.com/originals/d5/b4/8c/d5b48c1b9f0cc5d6960281a581ff8bf7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1775,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1775",
 			"wallpaper_url": "https://i.pinimg.com/originals/07/2e/0b/072e0b1b0eb3d5e7c1478c440615b2b4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1776,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1776",
 			"wallpaper_url": "https://i.pinimg.com/originals/fd/1b/b3/fd1bb34b727c4b28a379c66345022ca3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1777,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1777",
 			"wallpaper_url": "https://i.pinimg.com/originals/b7/ae/f6/b7aef654a5a7a465cc90f03def536d93.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1778,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1778",
 			"wallpaper_url": "https://i.pinimg.com/originals/59/43/09/5943098c5aaef75640067eb82262de03.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1779,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1779",
 			"wallpaper_url": "https://i.pinimg.com/originals/b8/1f/8c/b81f8cec49da7462265ec0548e5b9db8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1780,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1780",
 			"wallpaper_url": "https://i.pinimg.com/originals/f3/1c/0a/f31c0a96a24c08cfc1cb5209462ec620.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1781,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1781",
 			"wallpaper_url": "https://i.pinimg.com/originals/c5/7d/a2/c57da2c5e0938da76623c4e01c24d41f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1782,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1782",
 			"wallpaper_url": "https://i.pinimg.com/originals/ed/e3/d9/ede3d9576ed53ae24399cfea0e6c637e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1783,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1783",
 			"wallpaper_url": "https://i.pinimg.com/originals/22/a1/55/22a1555a5fe4161cf65e0e02c37b9274.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1784,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1784",
 			"wallpaper_url": "https://i.pinimg.com/originals/3a/89/21/3a89217e251ad0719aafa44062df4ab9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1785,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1785",
 			"wallpaper_url": "https://i.pinimg.com/originals/25/b7/05/25b705bf2140a088dee06c25e2fc7404.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1786,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1786",
 			"wallpaper_url": "https://i.pinimg.com/originals/95/9a/67/959a67125a34d386049bbe8a90145e2f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1787,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1787",
 			"wallpaper_url": "https://i.pinimg.com/originals/d6/aa/2f/d6aa2fccebfd2f2c45968d6a0c33ec19.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1788,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1788",
 			"wallpaper_url": "https://i.pinimg.com/originals/68/cd/8b/68cd8b1c727801507fdd19bea57d0295.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1789,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1789",
 			"wallpaper_url": "https://i.pinimg.com/originals/7a/a5/0b/7aa50bba9203eef3cbd315b87c4d6a15.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1790,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1790",
 			"wallpaper_url": "https://i.pinimg.com/originals/77/6c/81/776c8198563981db442f4e83058860bb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1791,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1791",
 			"wallpaper_url": "https://i.pinimg.com/originals/11/da/24/11da247db10b72a97697792ae58523fe.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1792,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1792",
 			"wallpaper_url": "https://i.pinimg.com/originals/fb/b4/43/fbb443e3fef50ce1262f1b2e0f021832.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1793,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1793",
 			"wallpaper_url": "https://i.pinimg.com/originals/0c/7c/0b/0c7c0be840b3456c0dd31acfd3a0fa71.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1794,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1794",
 			"wallpaper_url": "https://i.pinimg.com/originals/97/a7/1f/97a71f0a965864c37ce5e005e76f9242.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1795,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1795",
 			"wallpaper_url": "https://i.pinimg.com/originals/81/d3/c2/81d3c2174a3b71ce0f4b7850ad36bac3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1796,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1796",
 			"wallpaper_url": "https://i.pinimg.com/originals/e5/10/c5/e510c5ba4d71745e6acd0c775ee44632.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1797,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1797",
 			"wallpaper_url": "https://i.pinimg.com/originals/f7/b2/60/f7b2609740e79c764e00706e1ec2e3ea.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1798,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1798",
 			"wallpaper_url": "https://i.pinimg.com/originals/7e/03/d1/7e03d1433df1c5ed6419909f02762afa.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1799,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1799",
 			"wallpaper_url": "https://i.pinimg.com/originals/59/ea/fd/59eafd826c3779a1335a18692417df92.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1800,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1800",
 			"wallpaper_url": "https://i.pinimg.com/originals/bd/94/20/bd9420fd0ea65afcaef8b4ef57b26ed8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1801,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1801",
 			"wallpaper_url": "https://i.pinimg.com/originals/a3/8e/58/a38e588474c32edca861a30273adf594.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1802,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1802",
 			"wallpaper_url": "https://i.pinimg.com/originals/db/0d/95/db0d95c8973a384c0e9dc9478fb3cf6d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1803,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1803",
 			"wallpaper_url": "https://i.pinimg.com/originals/5d/e1/67/5de16740903ac0cb2c3d1b8227c5318b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1804,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1804",
 			"wallpaper_url": "https://i.pinimg.com/originals/c5/88/21/c5882113a5dc6e64b1a163bad9ca7104.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1805,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1805",
 			"wallpaper_url": "https://i.pinimg.com/originals/ed/4d/bd/ed4dbd0c653c2dc631f3dcf43c4681e3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1806,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1806",
 			"wallpaper_url": "https://i.pinimg.com/originals/c4/4d/46/c44d460ba1d5822cf98091dd72a9f27b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1807,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1807",
 			"wallpaper_url": "https://i.pinimg.com/originals/40/4f/16/404f1683597852a8e2f497cd6cbbccf4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1808,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1808",
 			"wallpaper_url": "https://i.pinimg.com/originals/1c/92/ea/1c92ea2baeb71a2346f6e58d177d9f44.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1809,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1809",
 			"wallpaper_url": "https://i.pinimg.com/originals/70/f1/54/70f1547213c48b15cee409403d0baf1e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1810,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1810",
 			"wallpaper_url": "https://i.pinimg.com/originals/98/33/8f/98338fef0b9da61cea73430a19b78484.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1811,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1811",
 			"wallpaper_url": "https://i.pinimg.com/originals/89/5a/85/895a853042ccd7f08393e0a35fa20bce.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1812,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1812",
 			"wallpaper_url": "https://i.pinimg.com/originals/5e/84/80/5e8480c60bc0e74098321621cd79f7a9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1813,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1813",
 			"wallpaper_url": "https://i.pinimg.com/originals/c9/a5/92/c9a592c10aacf83e1c1d81d47e754238.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1814,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1814",
 			"wallpaper_url": "https://i.pinimg.com/originals/3a/e3/0a/3ae30a47637a0d1a145cbfcf6bc46e8f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1815,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1815",
 			"wallpaper_url": "https://i.pinimg.com/originals/6d/2b/b6/6d2bb6f9888cc1bf833ee53ec3164a91.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1816,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1816",
 			"wallpaper_url": "https://i.pinimg.com/originals/63/ae/68/63ae68a9ce04f459747e969735b7994e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1817,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1817",
 			"wallpaper_url": "https://i.pinimg.com/originals/ce/ae/53/ceae531f222cbd43aa6097826045782f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1818,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1818",
 			"wallpaper_url": "https://i.pinimg.com/originals/b9/fa/75/b9fa75a00a2b8b7ca0a344321e9aac58.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1819,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1819",
 			"wallpaper_url": "https://i.pinimg.com/originals/3f/24/d6/3f24d6321f328d3335d64c37d51e3e31.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1820,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1820",
 			"wallpaper_url": "https://i.pinimg.com/originals/26/47/89/2647894b1997944d587c37f1b201484b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1821,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1821",
 			"wallpaper_url": "https://i.pinimg.com/originals/77/e4/95/77e495a496e82c4d7c2d18bbe5f0dd6e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1822,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1822",
 			"wallpaper_url": "https://i.pinimg.com/originals/58/1d/79/581d79469903850617ba77f6f0e2ac4c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1823,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1823",
 			"wallpaper_url": "https://i.pinimg.com/originals/48/49/c0/4849c0b02a4b0274e2306b920cfacc87.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1824,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1824",
 			"wallpaper_url": "https://i.pinimg.com/originals/6a/da/f4/6adaf441ec089879e65ec856b07632dd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1825,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1825",
 			"wallpaper_url": "https://i.pinimg.com/originals/59/d9/38/59d9383cec7ce45d2631e4e936936ae0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1826,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1826",
 			"wallpaper_url": "https://i.pinimg.com/originals/29/94/fa/2994fa37ec60508279c245fc92908abb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1827,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1827",
 			"wallpaper_url": "https://i.pinimg.com/originals/48/7b/18/487b18529cd8f144f0eee6493eed91ec.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1828,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1828",
 			"wallpaper_url": "https://i.pinimg.com/originals/19/ef/9f/19ef9f765871d918db8fd717a7472dc0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1829,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1829",
 			"wallpaper_url": "https://i.pinimg.com/originals/f7/36/49/f7364938c3a6b33263d5720885dbe9b8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1830,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1830",
 			"wallpaper_url": "https://i.pinimg.com/originals/38/0c/bb/380cbbf0a1a7172b730bdfb567a3feeb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1831,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1831",
 			"wallpaper_url": "https://i.pinimg.com/originals/73/5a/a6/735aa6e1b43067d4923ca95e4f46a4ea.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1832,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1832",
 			"wallpaper_url": "https://i.pinimg.com/originals/cd/95/05/cd95056ffc7a9600def75fcbab30f05b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1833,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1833",
 			"wallpaper_url": "https://i.pinimg.com/originals/b4/49/5a/b4495a60293f828b85d2aaa0b93a7ed0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1834,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1834",
 			"wallpaper_url": "https://i.pinimg.com/originals/71/9a/24/719a24182f28f145a06336d28584d370.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1835,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1835",
 			"wallpaper_url": "https://i.pinimg.com/originals/45/b6/7e/45b67e3332a3ebfd4d0d48eed31d6e5a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1836,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1836",
 			"wallpaper_url": "https://i.pinimg.com/originals/73/06/cf/7306cf4ef297bff3a29cb61b84866f85.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1837,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1837",
 			"wallpaper_url": "https://i.pinimg.com/originals/7d/63/3d/7d633d815b45b3e9c73aa8ab3c7096be.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1838,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1838",
 			"wallpaper_url": "https://i.pinimg.com/originals/9d/97/db/9d97db3ba0906d551d854b1bd581081d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1839,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1839",
 			"wallpaper_url": "https://i.pinimg.com/originals/b6/a4/27/b6a42784fa13308443075461621081cd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1840,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1840",
 			"wallpaper_url": "https://i.pinimg.com/originals/cb/2a/97/cb2a972af77abd660f0676891d3638d3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1841,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1841",
 			"wallpaper_url": "https://i.pinimg.com/originals/64/d6/8e/64d68e980b5fff69e7d42e69241b46d4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1842,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1842",
 			"wallpaper_url": "https://i.pinimg.com/originals/0e/34/0a/0e340acfea1da5d59119097661bf397c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1843,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1843",
 			"wallpaper_url": "https://i.pinimg.com/originals/45/97/cc/4597ccaa0f098564285562b235e3f00f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1844,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1844",
 			"wallpaper_url": "https://i.pinimg.com/originals/f7/46/10/f74610c26b8ad348c6b5187ea3face05.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1845,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1845",
 			"wallpaper_url": "https://i.pinimg.com/originals/cf/78/93/cf7893e4de3d7708581ead3d5adf3943.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1846,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1846",
 			"wallpaper_url": "https://i.pinimg.com/originals/b9/64/aa/b964aa67ac26d113ed1e7b251e41b293.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1847,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1847",
 			"wallpaper_url": "https://i.pinimg.com/originals/82/98/03/829803fba13269e31f6642aaecdaae5f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1848,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1848",
 			"wallpaper_url": "https://i.pinimg.com/originals/c7/e9/4c/c7e94c7cc0f03f2ecfa35eedff32058d.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1849,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1849",
 			"wallpaper_url": "https://i.pinimg.com/originals/77/0e/6a/770e6a1849fbace58baa4ce3dc269082.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1850,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1850",
 			"wallpaper_url": "https://i.pinimg.com/originals/c6/70/d9/c670d95087b3b03055767a70b23668ca.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1851,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1851",
 			"wallpaper_url": "https://i.pinimg.com/originals/d6/74/3c/d6743c6d2f9d7027daeb7ed62370a0c4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1852,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1852",
 			"wallpaper_url": "https://i.pinimg.com/originals/c1/37/6d/c1376d1b414451fbc9f8696e535b61b7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1853,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1853",
 			"wallpaper_url": "https://i.pinimg.com/originals/16/7e/1d/167e1d6a166a81844e948b013b996047.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1854,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1854",
 			"wallpaper_url": "https://i.pinimg.com/originals/38/6e/2c/386e2c4c661270127e7ace643036f1f5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1855,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1855",
 			"wallpaper_url": "https://i.pinimg.com/originals/d9/98/0b/d9980b912e4310e4ee1ec42fa2f567e6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1856,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1856",
 			"wallpaper_url": "https://i.pinimg.com/originals/dd/26/8f/dd268fb3f6961a1b2d70d591bcf06b1b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1857,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1857",
 			"wallpaper_url": "https://i.pinimg.com/originals/83/dc/b1/83dcb1606a438f9b9282287e2d6192af.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1858,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1858",
 			"wallpaper_url": "https://i.pinimg.com/originals/bd/b3/eb/bdb3ebfb150f645829f48f90db1a8f32.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1859,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1859",
 			"wallpaper_url": "https://i.pinimg.com/originals/b1/ab/a8/b1aba87af6601d1c7142e9482661b9f9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1860,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1860",
 			"wallpaper_url": "https://i.pinimg.com/originals/ce/bb/dd/cebbdd081892869866825ab449345e01.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1861,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1861",
 			"wallpaper_url": "https://i.pinimg.com/originals/b6/1e/00/b61e002d6d20061592ed7135da8645c0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1862,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1862",
 			"wallpaper_url": "https://i.pinimg.com/originals/10/b5/48/10b548e4d225ae63a4412862e8f22b41.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1863,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1863",
 			"wallpaper_url": "https://i.pinimg.com/originals/0e/72/5d/0e725d9c5ba9f807879166cb63e4fb87.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1864,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1864",
 			"wallpaper_url": "https://i.pinimg.com/originals/ad/b1/f9/adb1f9e04ea9fc94887e7d1c52a668d6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1865,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1865",
 			"wallpaper_url": "https://i.pinimg.com/originals/64/1b/99/641b99433ecc9b1f47dc618d193de5f3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1866,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1866",
 			"wallpaper_url": "https://i.pinimg.com/originals/39/fd/4a/39fd4a5a754479610b0e268c289f0d50.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1867,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1867",
 			"wallpaper_url": "https://i.pinimg.com/originals/2e/13/ae/2e13aed66fd1a3f975352894735de714.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1868,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1868",
 			"wallpaper_url": "https://i.pinimg.com/originals/f6/b5/fa/f6b5fa145757d413f499cecdf9f2326d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1869,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1869",
 			"wallpaper_url": "https://i.pinimg.com/originals/b7/3d/6e/b73d6e95228d8898a9cbcde53aaa8c50.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1870,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1870",
 			"wallpaper_url": "https://i.pinimg.com/originals/81/3c/89/813c898ae48d2fcae5b0df0601dd61e4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1871,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1871",
 			"wallpaper_url": "https://i.pinimg.com/originals/5f/05/30/5f0530676a4768165184e81b8c86f0f6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1872,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1872",
 			"wallpaper_url": "https://i.pinimg.com/originals/20/8d/f9/208df97e6533e7211d538cbd8b02c8df.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1873,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1873",
 			"wallpaper_url": "https://i.pinimg.com/originals/91/ba/cd/91bacd39c58c3e1573923e54ba43fdfa.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1874,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1874",
 			"wallpaper_url": "https://i.pinimg.com/originals/58/19/e9/5819e9ae8cdc6360952be6a872708a2b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1875,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1875",
 			"wallpaper_url": "https://i.pinimg.com/originals/3e/2d/da/3e2dda29c5716366245368f0c4b32083.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1876,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1876",
 			"wallpaper_url": "https://i.pinimg.com/originals/62/99/47/6299470f8a2a0c33e94776a71c393ac7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1877,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1877",
 			"wallpaper_url": "https://i.pinimg.com/originals/ad/f3/81/adf38154db3e2de0a7c13b4081e5862b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1878,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1878",
 			"wallpaper_url": "https://i.pinimg.com/originals/a5/e9/98/a5e998f2408905179d0d083ed7ba21aa.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1879,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1879",
 			"wallpaper_url": "https://i.pinimg.com/originals/be/9b/4e/be9b4e6237a2993545e82194ec2a2f3b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1880,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1880",
 			"wallpaper_url": "https://i.pinimg.com/originals/c3/cd/98/c3cd986eb737f5ab238efbdc7ae36b06.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1881,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1881",
 			"wallpaper_url": "https://i.pinimg.com/originals/d0/f2/a0/d0f2a05d7996a981beabffe2e1eeccaf.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1882,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1882",
 			"wallpaper_url": "https://i.pinimg.com/originals/ca/cb/c1/cacbc14cc14146c368cdc729006cac88.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1883,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1883",
 			"wallpaper_url": "https://i.pinimg.com/originals/e7/9b/c2/e79bc227fdbe9930433a10ec895232bf.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1884,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1884",
 			"wallpaper_url": "https://i.pinimg.com/originals/5b/0d/50/5b0d50685850a1e37d3fa8f7bb7176c3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1885,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1885",
 			"wallpaper_url": "https://i.pinimg.com/originals/4a/2e/7c/4a2e7c63ec8ea8d61a2b583e8cfe108b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1886,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1886",
 			"wallpaper_url": "https://i.pinimg.com/originals/7e/c9/c2/7ec9c29d0f77064bc84346d0553e21bb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1887,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1887",
 			"wallpaper_url": "https://i.pinimg.com/originals/44/5b/4f/445b4f9eded5c9e1a2a39d45dfa7b71d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1888,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1888",
 			"wallpaper_url": "https://i.pinimg.com/originals/3e/ca/90/3eca900095299493f74407e434388d11.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1889,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1889",
 			"wallpaper_url": "https://i.pinimg.com/originals/83/37/79/8337796be1bfff17dc47d09660c11888.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1890,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1890",
 			"wallpaper_url": "https://i.pinimg.com/originals/f3/1e/03/f31e03d38ecae8b82782338019e07dc3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1891,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1891",
 			"wallpaper_url": "https://i.pinimg.com/originals/7e/84/e9/7e84e903d698228b00352177b0bc01c4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1892,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1892",
 			"wallpaper_url": "https://i.pinimg.com/originals/b5/e5/a1/b5e5a1ec66d3ad98b2a8382adeaeb1e5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1893,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1893",
 			"wallpaper_url": "https://i.pinimg.com/originals/0a/a6/2e/0aa62efd3e0f45472a65087076856d72.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1894,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1894",
 			"wallpaper_url": "https://i.pinimg.com/originals/a2/41/db/a241db9b0eaba4fb3486938b5e9b38c4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1895,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1895",
 			"wallpaper_url": "https://i.pinimg.com/originals/63/2c/18/632c1819fb458815590b3eec66950237.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1896,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1896",
 			"wallpaper_url": "https://i.pinimg.com/originals/86/bf/79/86bf79e4d0b3b3e96e3b683f75ccdb6b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1897,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1897",
 			"wallpaper_url": "https://i.pinimg.com/originals/17/cf/ab/17cfabb3617d469e760d331116bba7e2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1898,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1898",
 			"wallpaper_url": "https://i.pinimg.com/originals/93/67/5f/93675f1e5d5334c63ccba64f32fc56d9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1899,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1899",
 			"wallpaper_url": "https://i.pinimg.com/originals/f6/da/40/f6da40d2c6c527d8bff17dea5b7b7294.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1900,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1900",
 			"wallpaper_url": "https://i.pinimg.com/originals/bc/95/00/bc9500955a1932fde2ff65461fdfc0c1.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1901,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1901",
 			"wallpaper_url": "https://i.pinimg.com/originals/9d/cc/21/9dcc21777028e399d07e22cdc9dcab97.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1902,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1902",
 			"wallpaper_url": "https://i.pinimg.com/originals/a0/91/a6/a091a6a166329257b44ae68c1dd1b936.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1903,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1903",
 			"wallpaper_url": "https://i.pinimg.com/originals/98/59/fb/9859fbbc8535dbf486baccceb3492127.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1904,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1904",
 			"wallpaper_url": "https://i.pinimg.com/originals/0d/22/bc/0d22bcc8df0f8b8f3575a0739b637220.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1905,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1905",
 			"wallpaper_url": "https://i.pinimg.com/originals/45/46/a1/4546a1a40c0fd5d8be1203f6a9a5aebc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1906,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1906",
 			"wallpaper_url": "https://i.pinimg.com/originals/ec/0f/e6/ec0fe625dddc8a7225e06edf4c80f58b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1907,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1907",
 			"wallpaper_url": "https://i.pinimg.com/originals/aa/b8/ae/aab8aeaf624c2816faf4ada690d8b05d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1908,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1908",
 			"wallpaper_url": "https://i.pinimg.com/originals/e3/55/5e/e3555e471904629878e1a76e4f9f7b58.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1909,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1909",
 			"wallpaper_url": "https://i.pinimg.com/originals/e0/eb/bb/e0ebbb89f1f3a17d6e06918ed7811eef.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1910,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1910",
 			"wallpaper_url": "https://i.pinimg.com/originals/72/8a/41/728a41119c9da4a38d3e398f28e79963.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1911,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1911",
 			"wallpaper_url": "https://i.pinimg.com/originals/05/cb/4a/05cb4a00c552b461b276f6dcfdaf0795.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1912,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1912",
 			"wallpaper_url": "https://i.pinimg.com/originals/8f/64/06/8f6406df92a8840c6e855cf014812591.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1913,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1913",
 			"wallpaper_url": "https://i.pinimg.com/originals/50/6a/a3/506aa3743ea7d69f05d1cd49dc60c5c8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1914,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1914",
 			"wallpaper_url": "https://i.pinimg.com/originals/54/d5/00/54d50005d1f671ca853fd406f6e7bc8d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1915,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1915",
 			"wallpaper_url": "https://i.pinimg.com/originals/d5/fd/d2/d5fdd251e86217bdf95bf585a0e89561.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1916,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1916",
 			"wallpaper_url": "https://i.pinimg.com/originals/c6/95/8a/c6958aaff83b398331ac55ab0e6be982.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1917,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1917",
 			"wallpaper_url": "https://i.pinimg.com/originals/24/79/0c/24790cab54f71244488fcfe0598e3287.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1918,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1918",
 			"wallpaper_url": "https://i.pinimg.com/originals/69/46/7a/69467aed24fe90ea50071b6a40d0f734.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1919,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1919",
 			"wallpaper_url": "https://i.pinimg.com/originals/0f/16/e1/0f16e12191d0a945f762cd86d99a2db7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1920,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1920",
 			"wallpaper_url": "https://i.pinimg.com/originals/b3/c8/f3/b3c8f3d027e2e6372e3b6cf67d982c0f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1921,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1921",
 			"wallpaper_url": "https://i.pinimg.com/originals/a1/60/ed/a160ed48ec74a93bccfc91de49ab983f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1922,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1922",
 			"wallpaper_url": "https://i.pinimg.com/originals/98/3c/54/983c5422dc488967c748e5528370178d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1923,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1923",
 			"wallpaper_url": "https://i.pinimg.com/originals/1a/65/39/1a653963167a607f49d99f6ed59d1f54.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1924,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1924",
 			"wallpaper_url": "https://i.pinimg.com/originals/ec/b3/45/ecb34515ec1bd80e9ab46574b882970a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1925,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1925",
 			"wallpaper_url": "https://i.pinimg.com/originals/8c/88/b7/8c88b7d3227f3fc683264f7938bbd65b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1926,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1926",
 			"wallpaper_url": "https://i.pinimg.com/originals/f4/c4/a6/f4c4a6fb7688a76aa957d5d06cdb723d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1927,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1927",
 			"wallpaper_url": "https://i.pinimg.com/originals/69/c9/f0/69c9f034b508d5b64df32b0b5a8545ab.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1928,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1928",
 			"wallpaper_url": "https://i.pinimg.com/originals/75/14/e0/7514e0a5e26da5ae9833e865858c0dbd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1929,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1929",
 			"wallpaper_url": "https://i.pinimg.com/originals/5f/95/da/5f95dab5711ee632af3fa80de741ee6c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1930,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1930",
 			"wallpaper_url": "https://i.pinimg.com/originals/54/02/e8/5402e8beb88054a5e396daac2718201c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1931,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1931",
 			"wallpaper_url": "https://i.pinimg.com/originals/f3/f1/88/f3f1888fcdc1badddb062786a8c819eb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1932,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1932",
 			"wallpaper_url": "https://i.pinimg.com/originals/6e/95/57/6e955727ba672e635085db76ed2a51c7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1933,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1933",
 			"wallpaper_url": "https://i.pinimg.com/originals/46/05/94/4605949963e1a58551b7ebc6c4915c57.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1934,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1934",
 			"wallpaper_url": "https://i.pinimg.com/originals/c8/87/4f/c8874fdb689cceb3763880529e5fbbe8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1935,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1935",
 			"wallpaper_url": "https://i.pinimg.com/originals/40/31/92/4031926accf6b5b6adfe36411d8296f0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1936,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1936",
 			"wallpaper_url": "https://i.pinimg.com/originals/14/2f/d4/142fd4317c71a73840adae551cf898f9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1937,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1937",
 			"wallpaper_url": "https://i.pinimg.com/originals/74/e4/52/74e4522bbc5183b0a4f80c45144101e3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1938,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1938",
 			"wallpaper_url": "https://i.pinimg.com/originals/51/c4/4c/51c44ce2933aaf7ddce48d335cf26a74.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1939,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1939",
 			"wallpaper_url": "https://i.pinimg.com/originals/e8/bd/2e/e8bd2eee31306c029541c8279f599064.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1940,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1940",
 			"wallpaper_url": "https://i.pinimg.com/originals/f2/b9/ee/f2b9eee002e124a44cb1ced390b7097c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1941,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1941",
 			"wallpaper_url": "https://i.pinimg.com/originals/f6/34/89/f63489a8436ae916eea391674e58a23e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1942,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1942",
 			"wallpaper_url": "https://i.pinimg.com/originals/18/5d/9f/185d9f502ce9690fc8dab7c59c9de9c2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1943,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1943",
 			"wallpaper_url": "https://i.pinimg.com/originals/2e/b4/fe/2eb4fedd129afc5a145a41d8b7527ea8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1944,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1944",
 			"wallpaper_url": "https://i.pinimg.com/originals/a4/3d/de/a43ddeb7e06f5c468e1a24dcdf436dfc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1945,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1945",
 			"wallpaper_url": "https://i.pinimg.com/originals/ec/e2/35/ece235741a6aa33cfc5f19049b71a3fc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1946,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1946",
 			"wallpaper_url": "https://i.pinimg.com/originals/ea/69/5e/ea695e79a057cd27a2e9228f3f35f1cd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1947,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1947",
 			"wallpaper_url": "https://i.pinimg.com/originals/de/11/01/de1101818b2a216ed9c3875b5a8d9560.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1948,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1948",
 			"wallpaper_url": "https://i.pinimg.com/originals/4f/49/ef/4f49ef95662832153dabda9c1f23458c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1949,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1949",
 			"wallpaper_url": "https://i.pinimg.com/originals/f0/53/92/f05392d7352015292b5cb36d7e4f2afd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1950,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1950",
 			"wallpaper_url": "https://i.pinimg.com/originals/b5/11/62/b5116298be059c9317178174ad91d7ce.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1951,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1951",
 			"wallpaper_url": "https://i.pinimg.com/originals/31/df/aa/31dfaab93a600bab336265a0445021bf.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1952,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1952",
 			"wallpaper_url": "https://i.pinimg.com/originals/6d/fc/ad/6dfcad6c6682314f7c58c16bfdc23a27.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1953,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1953",
 			"wallpaper_url": "https://i.pinimg.com/originals/3c/9f/35/3c9f358cb25029151e79ca56c8994037.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1954,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1954",
 			"wallpaper_url": "https://i.pinimg.com/originals/db/5f/42/db5f42681a59f315df4844ba8f32dc4a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1955,
-			"category_name": "KawaiiAesthetic",
+			"category_name": "Kawaii Aesthetic",
 			"wallpaper_name": "Kawaiiaesthetic1955",
 			"wallpaper_url": "https://i.pinimg.com/originals/5e/b4/bb/5eb4bb82913a6f781db17aeb3d8abcfe.jpg"
 		},
@@ -1783,1330 +1772,1330 @@
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii1",
 			"wallpaper_url": "https://i.pinimg.com/originals/41/cb/d3/41cbd3c3e87fddd7c0eab939cc1cdbf3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 2,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii2",
 			"wallpaper_url": "https://i.pinimg.com/originals/bc/81/96/bc8196bbf1c882651953c60e2f689d05.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 3,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii3",
 			"wallpaper_url": "https://i.pinimg.com/originals/2c/08/c2/2c08c2d9061859deb2a8fcb6d418c8b5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 4,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii4",
 			"wallpaper_url": "https://i.pinimg.com/originals/84/7f/c4/847fc455bcf9deb47f0ae95362eeb662.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 5,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii5",
 			"wallpaper_url": "https://i.pinimg.com/originals/b3/23/26/b323264de944762b23cedba37e6a6a67.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 6,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii6",
 			"wallpaper_url": "https://i.pinimg.com/originals/b8/1f/8c/b81f8cec49da7462265ec0548e5b9db8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 7,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii7",
 			"wallpaper_url": "https://i.pinimg.com/originals/67/fc/91/67fc91a36eef15b064b927d0c155d9e0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 8,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii8",
 			"wallpaper_url": "https://i.pinimg.com/originals/84/73/ee/8473ee64df9fe337b3bd1a972994820b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 9,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii9",
 			"wallpaper_url": "https://i.pinimg.com/originals/70/ef/13/70ef13dabeffba85662af993536055e2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 10,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii10",
 			"wallpaper_url": "https://i.pinimg.com/originals/54/03/cd/5403cd7789f85268aa8ec34640611daa.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 11,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii11",
 			"wallpaper_url": "https://i.pinimg.com/originals/d0/5e/44/d05e441d2aecc6550df8fa7199442626.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 12,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii12",
 			"wallpaper_url": "https://i.pinimg.com/originals/19/50/9d/19509dfa5733550796b69190155276ae.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 13,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii13",
 			"wallpaper_url": "https://i.pinimg.com/originals/29/f0/65/29f065cf72339d084720811d483c3592.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 14,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii14",
 			"wallpaper_url": "https://i.pinimg.com/originals/b1/86/e5/b186e5deea610a6428f291587f0a9bcf.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 15,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii15",
 			"wallpaper_url": "https://i.pinimg.com/originals/54/f1/76/54f17644f9fcccc22772661708ccd37a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 16,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii16",
 			"wallpaper_url": "https://i.pinimg.com/originals/99/a3/41/99a341a70356665e6ce1c0aea8cb808f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 17,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii17",
 			"wallpaper_url": "https://i.pinimg.com/originals/7f/a9/2d/7fa92d4415f2a0c639e60cfa161ed0c3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 18,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii18",
 			"wallpaper_url": "https://i.pinimg.com/originals/26/79/61/267961cf3cd467083c6706f97f48e642.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 19,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii19",
 			"wallpaper_url": "https://i.pinimg.com/originals/31/82/72/318272802968ddfba8cbd20693e08412.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 20,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii20",
 			"wallpaper_url": "https://i.pinimg.com/originals/37/b3/3b/37b33b60f553d27149850e575fed27a5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 21,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii21",
 			"wallpaper_url": "https://i.pinimg.com/originals/b8/88/46/b888467d8d6071bf20ae7cd791107664.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 22,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii22",
 			"wallpaper_url": "https://i.pinimg.com/originals/18/34/18/1834187462002329fbb47f8931adb8c1.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 23,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii23",
 			"wallpaper_url": "https://i.pinimg.com/originals/ef/72/96/ef72960d13a8833c4b8ca7be15aba572.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 24,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii24",
 			"wallpaper_url": "https://i.pinimg.com/originals/ae/ba/30/aeba30907c6599eb36093cf9543c3213.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 25,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii25",
 			"wallpaper_url": "https://i.pinimg.com/originals/cb/2a/0b/cb2a0bb79a9ae4797dfe6111df41a4a0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 26,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii26",
 			"wallpaper_url": "https://i.pinimg.com/originals/77/62/bc/7762bc24cfe3f12cb4d86f9872d3378d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 27,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii27",
 			"wallpaper_url": "https://i.pinimg.com/originals/cf/7d/fc/cf7dfc9a36ffeb9881f3c105c2230dd0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 28,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii28",
 			"wallpaper_url": "https://i.pinimg.com/originals/88/3d/a6/883da6fe176f8a077b724b08d5c20524.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 29,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii29",
 			"wallpaper_url": "https://i.pinimg.com/originals/c6/a7/97/c6a7975263b151de041ca0174ba2863e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 30,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii30",
 			"wallpaper_url": "https://i.pinimg.com/originals/2c/52/14/2c521493c49361215bcc6852a5e01140.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 31,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii31",
 			"wallpaper_url": "https://i.pinimg.com/originals/48/1c/40/481c40840de39ccf51443cc15bcd8d71.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 32,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii32",
 			"wallpaper_url": "https://i.pinimg.com/originals/db/85/96/db85969e975d6236c3c36948db13cc6d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 33,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii33",
 			"wallpaper_url": "https://i.pinimg.com/originals/50/de/45/50de45d6969f9dd467fc8f294771e9b2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 34,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii34",
 			"wallpaper_url": "https://i.pinimg.com/originals/6b/16/16/6b1616c199cf493670e9dba10d3f4ce8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 35,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii35",
 			"wallpaper_url": "https://i.pinimg.com/originals/7b/ca/1a/7bca1a3ee0b69014356ba8eb5b6aaea9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 36,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii36",
 			"wallpaper_url": "https://i.pinimg.com/originals/83/97/d1/8397d12adb988a1a1aa13a43e9ae5be2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 37,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii37",
 			"wallpaper_url": "https://i.pinimg.com/originals/a2/6a/da/a26ada93d59261b3db5123aaecc03451.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 38,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii38",
 			"wallpaper_url": "https://i.pinimg.com/originals/56/22/8a/56228a96d2590bbcd64cc7b2588b5011.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 39,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii39",
 			"wallpaper_url": "https://i.pinimg.com/originals/af/a3/da/afa3da2d6555ec5699533b0604e0aeaf.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 40,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii40",
 			"wallpaper_url": "https://i.pinimg.com/originals/8f/cc/ff/8fccffe0c2cab8ec9da3312c2777ab24.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 41,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii41",
 			"wallpaper_url": "https://i.pinimg.com/originals/86/39/31/863931a7a8d90999abc9ea9260c458a7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 42,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii42",
 			"wallpaper_url": "https://i.pinimg.com/originals/d4/de/5d/d4de5d521facd47012d0b946f29a70cf.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 43,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii43",
 			"wallpaper_url": "https://i.pinimg.com/originals/b3/3f/0c/b33f0c866453bea2733f8f2ae7fc97ea.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 44,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii44",
 			"wallpaper_url": "https://i.pinimg.com/originals/30/91/9f/30919f7433991a81c37323d845cb833e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 45,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii45",
 			"wallpaper_url": "https://i.pinimg.com/originals/04/59/6f/04596fba49822a8a2191d21d15bd295d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 46,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii46",
 			"wallpaper_url": "https://i.pinimg.com/originals/ea/3f/cf/ea3fcf43561d70c7e4eb96bd5f27ddf8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 47,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii47",
 			"wallpaper_url": "https://i.pinimg.com/originals/b2/8c/eb/b28cebe5429f125fc77c04bafb4fe2e7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 48,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii48",
 			"wallpaper_url": "https://i.pinimg.com/originals/1e/fe/29/1efe29d4713c3438526f868984e9a512.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 49,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii49",
 			"wallpaper_url": "https://i.pinimg.com/originals/c2/b2/ce/c2b2cec2c89ed5083ac24f499feddb7d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 50,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii50",
 			"wallpaper_url": "https://i.pinimg.com/originals/a3/60/3d/a3603d8be4888c5e1faf716633664371.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 51,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii51",
 			"wallpaper_url": "https://i.pinimg.com/originals/d9/7d/36/d97d365eb40566d2fb9543d5c64e2b1d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 52,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii52",
 			"wallpaper_url": "https://i.pinimg.com/originals/36/30/b2/3630b29422b53cc6fba2ca752db33d95.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 53,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii53",
 			"wallpaper_url": "https://i.pinimg.com/originals/1e/f4/47/1ef447d36e6a4bad2b7ed989b03e6b16.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 54,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii54",
 			"wallpaper_url": "https://i.pinimg.com/originals/8f/ec/82/8fec82c8369833a11995855a34412310.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 55,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii55",
 			"wallpaper_url": "https://i.pinimg.com/originals/4c/91/8e/4c918e94e3681a26d994b9fe7b5655a2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 56,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii56",
 			"wallpaper_url": "https://i.pinimg.com/originals/3a/44/17/3a4417a71fce96b1cb4ad70c8be6a3dc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 57,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii57",
 			"wallpaper_url": "https://i.pinimg.com/originals/8a/b2/ee/8ab2ee69abfd12aa214559bbae93f6f3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 58,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii58",
 			"wallpaper_url": "https://i.pinimg.com/originals/be/27/5a/be275ac198d38636b161daece16e66fc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 59,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii59",
 			"wallpaper_url": "https://i.pinimg.com/originals/e9/bc/a0/e9bca0f927da9305f781fe5c989c6811.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 60,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii60",
 			"wallpaper_url": "https://i.pinimg.com/originals/59/2f/c0/592fc0242f581b7204643a1b0db54e0f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 61,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii61",
 			"wallpaper_url": "https://i.pinimg.com/originals/e3/44/52/e34452cb8e3e1430d9bb047739f6ad43.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 62,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii62",
 			"wallpaper_url": "https://i.pinimg.com/originals/e3/d9/d3/e3d9d3e253769d87b726936e14dd1062.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 63,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii63",
 			"wallpaper_url": "https://i.pinimg.com/originals/5e/31/2d/5e312dab34de66d118a510ed94330d05.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 64,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii64",
 			"wallpaper_url": "https://i.pinimg.com/originals/36/c7/52/36c75238b85a8cf5bf4d2e790cbb8c65.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 65,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii65",
 			"wallpaper_url": "https://i.pinimg.com/originals/87/22/07/8722076ddcc1f3d538ecd4e937eb3681.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 66,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii66",
 			"wallpaper_url": "https://i.pinimg.com/originals/61/f1/c3/61f1c347dbc0fcebb570df779c26c5fa.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 67,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii67",
 			"wallpaper_url": "https://i.pinimg.com/originals/05/d8/14/05d814a337d41d5d0aa8299e4a1d6175.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 68,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii68",
 			"wallpaper_url": "https://i.pinimg.com/originals/0e/72/5d/0e725d9c5ba9f807879166cb63e4fb87.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 69,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii69",
 			"wallpaper_url": "https://i.pinimg.com/originals/ac/e5/e7/ace5e77f0f25ace3ae39128c69430628.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 70,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii70",
 			"wallpaper_url": "https://i.pinimg.com/originals/5e/e5/09/5ee50950b8dcb5758cadc26e173b851d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 71,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii71",
 			"wallpaper_url": "https://i.pinimg.com/originals/ee/64/93/ee6493014518971b323163fd3b4f5f14.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 72,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii72",
 			"wallpaper_url": "https://i.pinimg.com/originals/19/d9/b2/19d9b2fd8eeb63630d136399ea653307.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 73,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii73",
 			"wallpaper_url": "https://i.pinimg.com/originals/01/5a/d8/015ad8f5700a4e21a23e5041728c14e6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 74,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii74",
 			"wallpaper_url": "https://i.pinimg.com/originals/c9/a5/92/c9a592c10aacf83e1c1d81d47e754238.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 75,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii75",
 			"wallpaper_url": "https://i.pinimg.com/originals/be/e0/07/bee007bc4e762fedb371d4dd00e0061c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 76,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii76",
 			"wallpaper_url": "https://i.pinimg.com/originals/46/a0/d3/46a0d3003ca9dd652c13456642ecb28a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 77,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii77",
 			"wallpaper_url": "https://i.pinimg.com/originals/81/87/43/818743b498c8a5fb4b436ddf43fd65c5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 78,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii78",
 			"wallpaper_url": "https://i.pinimg.com/originals/dd/bd/86/ddbd86b1d47d49e6ff227fd451d69d87.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 79,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii79",
 			"wallpaper_url": "https://i.pinimg.com/originals/50/8b/47/508b4732e889ddd5b33c13119e6eded2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 80,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii80",
 			"wallpaper_url": "https://i.pinimg.com/originals/7e/d4/59/7ed4599a761eaa77a2717d4b96c8ccd2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 81,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii81",
 			"wallpaper_url": "https://i.pinimg.com/originals/24/1a/86/241a86dc247dd0d9fcc91a508350fc8f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 82,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii82",
 			"wallpaper_url": "https://i.pinimg.com/originals/6f/14/0b/6f140b7714002d34c1c7ebccd6c6fc0f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 83,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii83",
 			"wallpaper_url": "https://i.pinimg.com/originals/39/9a/cb/399acbb6caf5c24fbaf18a084c5aeb0b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 84,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii84",
 			"wallpaper_url": "https://i.pinimg.com/originals/61/4f/a6/614fa6b83af261c317269f65998d6388.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 85,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii85",
 			"wallpaper_url": "https://i.pinimg.com/originals/99/b0/9e/99b09e84d7c0e9478247c4590b899dbb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 86,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii86",
 			"wallpaper_url": "https://i.pinimg.com/originals/87/89/38/878938b4abe743731fae148c701c4872.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 87,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii87",
 			"wallpaper_url": "https://i.pinimg.com/originals/4d/73/2c/4d732c73d95120281dd46a5a819f84a9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 88,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii88",
 			"wallpaper_url": "https://i.pinimg.com/originals/12/bc/e1/12bce11add7eec1466f5d9997b74be09.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 89,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii89",
 			"wallpaper_url": "https://i.pinimg.com/originals/ac/a6/6f/aca66fd4f35025d41cef2506b7902c7f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 90,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii90",
 			"wallpaper_url": "https://i.pinimg.com/originals/75/a3/61/75a36186528921ba81d21f0f97971e93.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 91,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii91",
 			"wallpaper_url": "https://i.pinimg.com/originals/63/5e/47/635e47b5220da18da9f607d5b38cd806.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 92,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii92",
 			"wallpaper_url": "https://i.pinimg.com/originals/36/18/3c/36183c9bbaf84f1539353fd0507a5de4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 93,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii93",
 			"wallpaper_url": "https://i.pinimg.com/originals/c7/e0/81/c7e081d6a015cdf3aaff760fc77c466a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 94,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii94",
 			"wallpaper_url": "https://i.pinimg.com/originals/86/14/c9/8614c9600aeca9448df7bc744e1e294c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 95,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii95",
 			"wallpaper_url": "https://i.pinimg.com/originals/e5/e6/0f/e5e60fb868450eae2eb8fac7ce436018.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 96,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii96",
 			"wallpaper_url": "https://i.pinimg.com/originals/e3/f7/97/e3f797b03a82a20008725235b3a12e49.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 97,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii97",
 			"wallpaper_url": "https://i.pinimg.com/originals/83/0e/e5/830ee50b5984639b46ce51bc8f951d24.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 98,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii98",
 			"wallpaper_url": "https://i.pinimg.com/originals/90/dc/4e/90dc4ec8a6850b47134cc8767ad162d9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 99,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii99",
 			"wallpaper_url": "https://i.pinimg.com/originals/12/be/23/12be23aa1cfe50f3ef7ba6437df0baea.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 100,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii100",
 			"wallpaper_url": "https://i.pinimg.com/originals/92/9b/da/929bda8de4b9c31c0ac1001d6ec48652.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 101,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii101",
 			"wallpaper_url": "https://i.pinimg.com/originals/49/ff/c7/49ffc7634191f99a413ae5aa5b0d6411.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 102,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii102",
 			"wallpaper_url": "https://i.pinimg.com/originals/03/03/ce/0303ced22c7fb3728e180484d2a9cb5b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 103,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii103",
 			"wallpaper_url": "https://i.pinimg.com/originals/28/6a/40/286a40842ca108bdc383df8c51ef2e82.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 104,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii104",
 			"wallpaper_url": "https://i.pinimg.com/originals/d4/9d/7c/d49d7c72c6257be1ea501d4ac926237e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 105,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii105",
 			"wallpaper_url": "https://i.pinimg.com/originals/5b/10/a2/5b10a2aeb6df143cfee17907422139a2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 106,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii106",
 			"wallpaper_url": "https://i.pinimg.com/originals/9f/9a/35/9f9a35434f6d79a19025414ba2c1a7d7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 107,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii107",
 			"wallpaper_url": "https://i.pinimg.com/originals/b1/f1/79/b1f179f13e07c7e755b28e0c3a0d9285.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 108,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii108",
 			"wallpaper_url": "https://i.pinimg.com/originals/5a/5a/54/5a5a549cb74078ea932485cc0a590acd.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 109,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii109",
 			"wallpaper_url": "https://i.pinimg.com/originals/be/db/e5/bedbe5cf21456b7584256ccb91d2fe11.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 110,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii110",
 			"wallpaper_url": "https://i.pinimg.com/originals/29/fd/8b/29fd8bce1c801ac2cc1b9de0b9615a80.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 111,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii111",
 			"wallpaper_url": "https://i.pinimg.com/originals/5d/97/36/5d97368b404fb1f3b9b8d2a4a25c8b3d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 112,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii112",
 			"wallpaper_url": "https://i.pinimg.com/originals/31/77/ed/3177ed964d8a47c0e6afdeb9f1f0ad6b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 113,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii113",
 			"wallpaper_url": "https://i.pinimg.com/originals/6c/0d/7e/6c0d7eb43e084cac705f39c09693d94e.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 114,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii114",
 			"wallpaper_url": "https://i.pinimg.com/originals/1d/db/50/1ddb506d3db196e00e4b050f2495741d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 115,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii115",
 			"wallpaper_url": "https://i.pinimg.com/originals/8f/99/98/8f999891eab54c13d7a1299c08a3e5a6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 116,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii116",
 			"wallpaper_url": "https://i.pinimg.com/originals/a1/c0/21/a1c0218184e5bec30fec06c148d2c05a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 117,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii117",
 			"wallpaper_url": "https://i.pinimg.com/originals/1e/33/38/1e33382aa8741859d546cbdc32bbdd7f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 118,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii118",
 			"wallpaper_url": "https://i.pinimg.com/originals/72/1f/88/721f883105d0c3390015a76337d065ad.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 119,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii119",
 			"wallpaper_url": "https://i.pinimg.com/originals/c7/e2/7a/c7e27a704f0d674d987a5e819ae5b71c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 120,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii120",
 			"wallpaper_url": "https://i.pinimg.com/originals/5a/97/c0/5a97c0ded3c9e1c72c8350a70196941e.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 121,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii121",
 			"wallpaper_url": "https://i.pinimg.com/originals/27/4e/79/274e79fae5b9db0eb63a06dd6bc4c116.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 122,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii122",
 			"wallpaper_url": "https://i.pinimg.com/originals/6b/f1/21/6bf1211509e285bff425caba6c873964.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 123,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii123",
 			"wallpaper_url": "https://i.pinimg.com/originals/5d/ee/9f/5dee9f0c2074a6fedbc9e05b1c98c75f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 124,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii124",
 			"wallpaper_url": "https://i.pinimg.com/originals/d7/c4/a0/d7c4a063926c3e47023bb9823cc9ceac.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 125,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii125",
 			"wallpaper_url": "https://i.pinimg.com/originals/70/88/99/708899052eaa86b37a30c945ac346541.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 126,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii126",
 			"wallpaper_url": "https://i.pinimg.com/originals/71/11/e7/7111e7afcc5399da1dcd81380f0d93fd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 127,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii127",
 			"wallpaper_url": "https://i.pinimg.com/originals/84/2f/da/842fdae0eb7563698a96d1284e1cf4bc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 128,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii128",
 			"wallpaper_url": "https://i.pinimg.com/originals/15/59/fa/1559fa1ccbc8c3f4b3e1afadd24f89ed.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 129,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii129",
 			"wallpaper_url": "https://i.pinimg.com/originals/00/b5/f3/00b5f3991ece1e925441a8543c7e24e6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 130,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii130",
 			"wallpaper_url": "https://i.pinimg.com/originals/06/b5/2d/06b52d787c74f19f94dc96e07ea3f04a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 131,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii131",
 			"wallpaper_url": "https://i.pinimg.com/originals/31/e6/21/31e621e867b5c83bd3adea58a3e0f7ad.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 132,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii132",
 			"wallpaper_url": "https://i.pinimg.com/originals/d3/93/c8/d393c80fed4bcc92564ac3b145f5f8c8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 133,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii133",
 			"wallpaper_url": "https://i.pinimg.com/originals/30/07/8f/30078f5ecd2bbc72a6aa6d89ebf55937.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 134,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii134",
 			"wallpaper_url": "https://i.pinimg.com/originals/61/0b/e1/610be1ab2779aee7796c1f33d3a33506.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 135,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii135",
 			"wallpaper_url": "https://i.pinimg.com/originals/04/4d/b1/044db1964ffcd7de5ec9de4d0fd199c4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 136,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii136",
 			"wallpaper_url": "https://i.pinimg.com/originals/9e/6d/b7/9e6db76243dfbb99e8e48db7054be858.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 137,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii137",
 			"wallpaper_url": "https://i.pinimg.com/originals/de/b8/0b/deb80b6549298d3692c013da4e0e0506.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 138,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii138",
 			"wallpaper_url": "https://i.pinimg.com/originals/e6/80/09/e680094afc4faab0152590cdcc0e22eb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 139,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii139",
 			"wallpaper_url": "https://i.pinimg.com/originals/24/ea/33/24ea33f004665383b591e1d5a65ef589.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 140,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii140",
 			"wallpaper_url": "https://i.pinimg.com/originals/94/a3/a3/94a3a3ce3492a3fa194bd6192d71b56e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 141,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii141",
 			"wallpaper_url": "https://i.pinimg.com/originals/82/1f/64/821f6417a790c6c43a87214b00ecbfa0.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 142,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii142",
 			"wallpaper_url": "https://i.pinimg.com/originals/ee/aa/75/eeaa758a1b17de5852f45d229e595bba.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 143,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii143",
 			"wallpaper_url": "https://i.pinimg.com/originals/04/f9/40/04f9403519ec9ab39cc4cfe11044eeca.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 144,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii144",
 			"wallpaper_url": "https://i.pinimg.com/originals/72/a1/98/72a198ff8b3ff8ee95d7d8b619c9662b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 145,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii145",
 			"wallpaper_url": "https://i.pinimg.com/originals/ca/53/5f/ca535f931bf31981f59c2cf2fe13334d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 146,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii146",
 			"wallpaper_url": "https://i.pinimg.com/originals/cd/b7/7a/cdb77a1473c1466232cd05e1251379fa.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 147,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii147",
 			"wallpaper_url": "https://i.pinimg.com/originals/6a/da/f4/6adaf441ec089879e65ec856b07632dd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 148,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii148",
 			"wallpaper_url": "https://i.pinimg.com/originals/5d/c4/46/5dc446392cb0d50dcdc04cd176cc1e50.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 149,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii149",
 			"wallpaper_url": "https://i.pinimg.com/originals/26/47/89/2647894b1997944d587c37f1b201484b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 150,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii150",
 			"wallpaper_url": "https://i.pinimg.com/originals/31/bd/3f/31bd3feeae16e86d64df28dbcd39f539.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 151,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii151",
 			"wallpaper_url": "https://i.pinimg.com/originals/bb/ab/b7/bbabb74b6b029d0c3e30756433cfa408.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 152,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii152",
 			"wallpaper_url": "https://i.pinimg.com/originals/a5/a8/92/a5a8928916ac5639af6f7a3a4d8fa66d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 153,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii153",
 			"wallpaper_url": "https://i.pinimg.com/originals/fa/80/00/fa8000673ed2d03c615735b5ab65690b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 154,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii154",
 			"wallpaper_url": "https://i.pinimg.com/originals/46/9f/93/469f930f8c05dbad1b81e48b5d1b53df.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 155,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii155",
 			"wallpaper_url": "https://i.pinimg.com/originals/a4/6e/3f/a46e3f699653b4ac2ae829aeccaf598d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 156,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii156",
 			"wallpaper_url": "https://i.pinimg.com/originals/13/bd/52/13bd527e63dedb8c825bbc81117c58f5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 157,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii157",
 			"wallpaper_url": "https://i.pinimg.com/originals/b0/7e/ca/b07ecaddd9e3cd8a1af912f1e71b15f4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 158,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii158",
 			"wallpaper_url": "https://i.pinimg.com/originals/53/fc/8c/53fc8ca5bd97c58d9c3eb8710658eab6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 159,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii159",
 			"wallpaper_url": "https://i.pinimg.com/originals/7f/2d/a5/7f2da5a7116620fecbff39b77ce7e4a3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 160,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii160",
 			"wallpaper_url": "https://i.pinimg.com/originals/c3/86/be/c386bea3509326ca5da79a098e60db7a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 161,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii161",
 			"wallpaper_url": "https://i.pinimg.com/originals/aa/32/42/aa32420cec0c859d7561d81c93efe8ce.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 162,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii162",
 			"wallpaper_url": "https://i.pinimg.com/originals/1a/46/50/1a465008d56c62e3ec4cc5af5e77ef6c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 163,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii163",
 			"wallpaper_url": "https://i.pinimg.com/originals/c4/fb/0a/c4fb0acbb40f348cc1e0a6c5d655d6d6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 164,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii164",
 			"wallpaper_url": "https://i.pinimg.com/originals/00/70/6f/00706f89c5d909b418dc82b372478ea6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 165,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii165",
 			"wallpaper_url": "https://i.pinimg.com/originals/69/ff/a0/69ffa0b06c1c2807da3ea75347cdbae2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 166,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii166",
 			"wallpaper_url": "https://i.pinimg.com/originals/54/dd/b6/54ddb6d1cbbe41d7f3015ed8219a8f1c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 167,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii167",
 			"wallpaper_url": "https://i.pinimg.com/originals/22/24/c0/2224c093377593ac20081d1a725d1c68.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 168,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii168",
 			"wallpaper_url": "https://i.pinimg.com/originals/c3/35/01/c335016408cd450c54a2ce71ff2b0205.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 169,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii169",
 			"wallpaper_url": "https://i.pinimg.com/originals/77/22/5a/77225a19de6083540a4c0b3106a80dc8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 170,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii170",
 			"wallpaper_url": "https://i.pinimg.com/originals/4c/50/94/4c509486a67b6787ddb7d608a24d66dd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 171,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii171",
 			"wallpaper_url": "https://i.pinimg.com/originals/37/ef/56/37ef56a953fd6713c0e3ebfd64cda096.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 172,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii172",
 			"wallpaper_url": "https://i.pinimg.com/originals/41/35/db/4135dbbae82f5bbacc0d8cd08012c685.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 173,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii173",
 			"wallpaper_url": "https://i.pinimg.com/originals/09/80/11/0980118daaa9e27a29a69120f77ad6ec.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 174,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii174",
 			"wallpaper_url": "https://i.pinimg.com/originals/43/06/79/4306794ff03bd5dddd0b45c718604194.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 175,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii175",
 			"wallpaper_url": "https://i.pinimg.com/originals/7c/ac/bb/7cacbb1df6a44effe8029b049c78143b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 176,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii176",
 			"wallpaper_url": "https://i.pinimg.com/originals/30/e9/86/30e9868dcc46fe558818d2e054d6ca0a.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 177,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii177",
 			"wallpaper_url": "https://i.pinimg.com/originals/5c/58/77/5c587745a4b0511257ab8321693a1641.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 178,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii178",
 			"wallpaper_url": "https://i.pinimg.com/originals/64/ef/10/64ef1078185e4625abc03ad1889d7e17.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 179,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii179",
 			"wallpaper_url": "https://i.pinimg.com/originals/3c/75/42/3c754297ca5739f891aed4ca380f1b6f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 180,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii180",
 			"wallpaper_url": "https://i.pinimg.com/originals/6e/7d/a4/6e7da46b16b87f4528d2f6bd7d9b15d2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 181,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii181",
 			"wallpaper_url": "https://i.pinimg.com/originals/aa/64/56/aa645667c26bd6c12fc44a131b1a2db4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 182,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii182",
 			"wallpaper_url": "https://i.pinimg.com/originals/20/08/d1/2008d10fbf52c7e554789e639fe166bd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 183,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii183",
 			"wallpaper_url": "https://i.pinimg.com/originals/50/23/ae/5023ae3d8e60e4561871a5f3e6862768.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 184,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii184",
 			"wallpaper_url": "https://i.pinimg.com/originals/46/f7/5e/46f75e0276a954efe3db2b1bc55c6b75.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 185,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii185",
 			"wallpaper_url": "https://i.pinimg.com/originals/bd/38/b5/bd38b5d2ae9747c831c7ae0a6fd07b99.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 186,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii186",
 			"wallpaper_url": "https://i.pinimg.com/originals/c9/0d/61/c90d610d63262e3c74c86c75c643ed5c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 187,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii187",
 			"wallpaper_url": "https://i.pinimg.com/originals/80/a3/a1/80a3a1b6dc03af521a865c9c048d9e81.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 188,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii188",
 			"wallpaper_url": "https://i.pinimg.com/originals/1c/92/ea/1c92ea2baeb71a2346f6e58d177d9f44.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 189,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii189",
 			"wallpaper_url": "https://i.pinimg.com/originals/1b/2b/45/1b2b451f901d82021ff7116295c44b91.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 190,
-			"category_name": "CuteKawaii",
+			"category_name": "Cute Kawaii",
 			"wallpaper_name": "cutekawaii190",
 			"wallpaper_url": "https://i.pinimg.com/originals/ec/8a/a6/ec8aa6ff278e8a755615818a0aa9b6a2.jpg"
 		},
@@ -10576,1281 +10565,1281 @@
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1251,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1251",
 			"wallpaper_url": "https://i.pinimg.com/originals/52/fc/4f/52fc4f3b4603f19ed50a6ed2bfe92f33.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1252,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1252",
 			"wallpaper_url": "https://i.pinimg.com/originals/68/a6/8b/68a68bd831378091413c7d6138f74408.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1253,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1253",
 			"wallpaper_url": "https://i.pinimg.com/originals/f6/5a/20/f65a201d5c57d0af359e57dcb9397c98.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1254,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1254",
 			"wallpaper_url": "https://i.pinimg.com/originals/ef/d7/04/efd704ecb88f0e2e7560489525d6a264.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1255,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1255",
 			"wallpaper_url": "https://i.pinimg.com/originals/94/a0/0a/94a00ad858460950a08a0a1c2fa75c6d.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1256,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1256",
 			"wallpaper_url": "https://i.pinimg.com/originals/f6/70/fa/f670fa3ca2303d4320943a1e348c95bb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1257,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1257",
 			"wallpaper_url": "https://i.pinimg.com/originals/37/bb/c0/37bbc06edf530a5dc899d1babe04c487.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1258,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1258",
 			"wallpaper_url": "https://i.pinimg.com/originals/42/9b/c3/429bc3c67ca88c0636da18c8aafb8707.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1259,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1259",
 			"wallpaper_url": "https://i.pinimg.com/originals/2a/24/59/2a245990e8d056cb526dedef57f568ce.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1260,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1260",
 			"wallpaper_url": "https://i.pinimg.com/originals/06/58/53/0658535f1bbc77b7876be2858b63c0f7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1261,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1261",
 			"wallpaper_url": "https://i.pinimg.com/originals/ee/ca/0f/eeca0f796481fd6303d0ea11fb273b01.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1262,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1262",
 			"wallpaper_url": "https://i.pinimg.com/originals/8e/a6/81/8ea6817a35b68f0e2eb10287c34b8021.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1263,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1263",
 			"wallpaper_url": "https://i.pinimg.com/originals/e1/87/c8/e187c82b4410ecce2353f783925fc6fd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1264,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1264",
 			"wallpaper_url": "https://i.pinimg.com/originals/73/fd/e1/73fde176b6764ce6eb7dfa87610d0575.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1265,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1265",
 			"wallpaper_url": "https://i.pinimg.com/originals/fb/e4/36/fbe43699965e1f543aaa0bfb2b87c88a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1266,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1266",
 			"wallpaper_url": "https://i.pinimg.com/originals/b2/5c/25/b25c256c63e01b927288fe3843bcb84a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1267,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1267",
 			"wallpaper_url": "https://i.pinimg.com/originals/2f/2d/69/2f2d69bc1563d91c4657a3a78bb829ae.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1268,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1268",
 			"wallpaper_url": "https://i.pinimg.com/originals/69/30/73/6930731a9c2b6383bf2fd936d9d57361.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1269,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1269",
 			"wallpaper_url": "https://i.pinimg.com/originals/db/00/92/db0092eb7d08f2c109df852829e8dbc3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1270,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1270",
 			"wallpaper_url": "https://i.pinimg.com/originals/f2/31/f3/f231f3b7fe7812b0f050a632a45fe88b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1271,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1271",
 			"wallpaper_url": "https://i.pinimg.com/originals/65/56/cf/6556cf44bf7d49f34fe1e84459973066.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1272,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1272",
 			"wallpaper_url": "https://i.pinimg.com/originals/22/75/37/2275373a60ab26e7b849f93fecfd7ede.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1273,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1273",
 			"wallpaper_url": "https://i.pinimg.com/originals/ae/4b/ea/ae4bea6faaaff404201205057be17912.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1274,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1274",
 			"wallpaper_url": "https://i.pinimg.com/originals/9e/69/b2/9e69b23054bb3137434548eeb22efe3f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1275,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1275",
 			"wallpaper_url": "https://i.pinimg.com/originals/32/ee/01/32ee0194fa98f3ec170a06fa1d032fac.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1276,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1276",
 			"wallpaper_url": "https://i.pinimg.com/originals/0f/74/70/0f74707cee565a30887a137f4bbe4922.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1277,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1277",
 			"wallpaper_url": "https://i.pinimg.com/originals/54/73/34/547334fe1549d2cec632d531bac52d78.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1278,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1278",
 			"wallpaper_url": "https://i.pinimg.com/originals/88/82/9e/88829e18c20320552b6d3a41679a76ae.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1279,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1279",
 			"wallpaper_url": "https://i.pinimg.com/originals/a9/c1/60/a9c1604a52e624fb5382617e069bbe4d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1280,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1280",
 			"wallpaper_url": "https://i.pinimg.com/originals/09/d8/ae/09d8ae7dd3466213fc718533be4b758f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1281,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1281",
 			"wallpaper_url": "https://i.pinimg.com/originals/29/fe/77/29fe77351145b489d76635542e05c074.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1282,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1282",
 			"wallpaper_url": "https://i.pinimg.com/originals/e1/33/a7/e133a760142fda1e7d9243b0bc8bd4e2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1283,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1283",
 			"wallpaper_url": "https://i.pinimg.com/originals/c9/aa/8c/c9aa8ca5cbd225ebfdfc305755219d4c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1284,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1284",
 			"wallpaper_url": "https://i.pinimg.com/originals/78/c3/a4/78c3a431b297184b470b8723069a8bc4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1285,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1285",
 			"wallpaper_url": "https://i.pinimg.com/originals/f8/b9/f9/f8b9f93eb9c87fde958c79b02303762c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1286,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1286",
 			"wallpaper_url": "https://i.pinimg.com/originals/f7/e1/a1/f7e1a1a5d84cd73caf8581cde96eaa2c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1287,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1287",
 			"wallpaper_url": "https://i.pinimg.com/originals/91/da/32/91da322a018383de5e699fd6bcc45cb6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1288,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1288",
 			"wallpaper_url": "https://i.pinimg.com/originals/0f/06/de/0f06de9aa4544ba2c582420ccf781d92.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1289,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1289",
 			"wallpaper_url": "https://i.pinimg.com/originals/d3/c7/26/d3c726c34f12850ff67f5eb1c7d2f239.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1290,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1290",
 			"wallpaper_url": "https://i.pinimg.com/originals/5d/42/f9/5d42f98245290b3bab2dede0a4336e67.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1291,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1291",
 			"wallpaper_url": "https://i.pinimg.com/originals/ea/b8/92/eab8927cbb3d19c802522dd7d9cbf695.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1292,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1292",
 			"wallpaper_url": "https://i.pinimg.com/originals/af/e8/0c/afe80c9f0850b715801d3f39f907db64.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1293,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1293",
 			"wallpaper_url": "https://i.pinimg.com/originals/0e/c2/e6/0ec2e68ec6b726009d19dd8a2e930ef0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1294,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1294",
 			"wallpaper_url": "https://i.pinimg.com/originals/c3/9a/aa/c39aaab11e921a76744e0de88d914742.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1295,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1295",
 			"wallpaper_url": "https://i.pinimg.com/originals/85/59/b1/8559b1e43c1490c32f4c260cb97d4148.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1296,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1296",
 			"wallpaper_url": "https://i.pinimg.com/originals/e5/16/9f/e5169fdebc0ddf1425a9999347304891.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1297,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1297",
 			"wallpaper_url": "https://i.pinimg.com/originals/3c/6a/f4/3c6af4785e447bf8fad6fad9d8a9cc8e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1298,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1298",
 			"wallpaper_url": "https://i.pinimg.com/originals/e4/e0/3c/e4e03c7da67494c859aa1917c58f96db.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1299,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1299",
 			"wallpaper_url": "https://i.pinimg.com/originals/21/b7/7e/21b77e23bf43b28a90e10623cbe63769.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1300,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1300",
 			"wallpaper_url": "https://i.pinimg.com/originals/80/69/be/8069beeabc5eff82e1505bf64004654c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1301,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1301",
 			"wallpaper_url": "https://i.pinimg.com/originals/91/71/25/91712566d142f3b9142b5dd0ba6432ad.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1302,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1302",
 			"wallpaper_url": "https://i.pinimg.com/originals/13/c3/75/13c3753ca7ddd6e7418c90007d9ed8c9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1303,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1303",
 			"wallpaper_url": "https://i.pinimg.com/originals/cc/9d/13/cc9d131040d6d1775fc665f0a0f15047.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1304,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1304",
 			"wallpaper_url": "https://i.pinimg.com/originals/24/74/0d/24740d017ef075eefe882ab63d1e1e4f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1305,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1305",
 			"wallpaper_url": "https://i.pinimg.com/originals/0c/9e/68/0c9e682b05fd0575e33681dbf912a2b7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1306,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1306",
 			"wallpaper_url": "https://i.pinimg.com/originals/a8/07/cd/a807cde07b3ad63c9e85ddb6b9760678.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1307,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1307",
 			"wallpaper_url": "https://i.pinimg.com/originals/72/c9/8d/72c98d9583e70318ff4036434066b0c5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1308,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1308",
 			"wallpaper_url": "https://i.pinimg.com/originals/84/3f/c5/843fc58bce0e42bca0dc5321295ccc1c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1309,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1309",
 			"wallpaper_url": "https://i.pinimg.com/originals/e6/af/d5/e6afd5f82ac13ce0eddd8bd13d36c987.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1310,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1310",
 			"wallpaper_url": "https://i.pinimg.com/originals/b1/71/23/b1712345a38ec4aa359dcb1f67f12138.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1311,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1311",
 			"wallpaper_url": "https://i.pinimg.com/originals/05/03/ad/0503ad338a3a8be9347eafabb75eebe7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1312,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1312",
 			"wallpaper_url": "https://i.pinimg.com/originals/4e/e8/a3/4ee8a337d7f85a8626b6349db2e48aa2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1313,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1313",
 			"wallpaper_url": "https://i.pinimg.com/originals/74/7d/f4/747df444b84f708db0f3398c24318782.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1314,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1314",
 			"wallpaper_url": "https://i.pinimg.com/originals/f3/ef/66/f3ef665f5af0bf3b5358539fb325b320.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1315,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1315",
 			"wallpaper_url": "https://i.pinimg.com/originals/c2/13/f4/c213f45ce49e47b108a3b36cfd4d8796.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1316,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1316",
 			"wallpaper_url": "https://i.pinimg.com/originals/7d/91/a0/7d91a0c21a7a5747dfd7c70ffab7da1d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1317,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1317",
 			"wallpaper_url": "https://i.pinimg.com/originals/4f/31/8c/4f318c86d503d88c46f74b3250ea5345.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1318,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1318",
 			"wallpaper_url": "https://i.pinimg.com/originals/8a/88/1c/8a881c5efbcd50e1b79e4f5e093e9c3c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1319,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1319",
 			"wallpaper_url": "https://i.pinimg.com/originals/85/4a/7b/854a7b3963cd50287bc191f87f568059.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1320,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1320",
 			"wallpaper_url": "https://i.pinimg.com/originals/74/5b/46/745b4637683202fcc301847d76c8b0a8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1321,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1321",
 			"wallpaper_url": "https://i.pinimg.com/originals/27/97/7c/27977c1a12b2884d5de225145e633c03.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1322,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1322",
 			"wallpaper_url": "https://i.pinimg.com/originals/de/34/a2/de34a23d4e23aa2a8c01ec5818cd26ab.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1323,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1323",
 			"wallpaper_url": "https://i.pinimg.com/originals/66/3d/5a/663d5acb29d299ace2948abed1f967b7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1324,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1324",
 			"wallpaper_url": "https://i.pinimg.com/originals/98/29/83/982983d212ff2a413f4e65634acb6d52.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1325,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1325",
 			"wallpaper_url": "https://i.pinimg.com/originals/89/66/8e/89668ed6a22f9fca51ba4cbd02bfc94a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1326,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1326",
 			"wallpaper_url": "https://i.pinimg.com/originals/c8/2b/e7/c82be7b0cc60711cb7c2cfa029a72a4e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1327,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1327",
 			"wallpaper_url": "https://i.pinimg.com/originals/a2/1f/0f/a21f0f68397fe276a681e1ea77fc12b0.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1328,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1328",
 			"wallpaper_url": "https://i.pinimg.com/originals/77/2b/58/772b5806e13743af1bdc65f7b5bd4532.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1329,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1329",
 			"wallpaper_url": "https://i.pinimg.com/originals/9f/de/53/9fde53ee7d71a3c72d3cda660b0f051d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1330,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1330",
 			"wallpaper_url": "https://i.pinimg.com/originals/e9/22/7f/e9227f28ce6a47c63569452af40fd6d9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1331,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1331",
 			"wallpaper_url": "https://i.pinimg.com/originals/c4/61/84/c461840c085e5bd464e92db86eb39093.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1332,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1332",
 			"wallpaper_url": "https://i.pinimg.com/originals/b8/09/49/b8094969bf571b6b77afc00770b456d9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1333,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1333",
 			"wallpaper_url": "https://i.pinimg.com/originals/20/78/33/207833a94c7e7f6eb32a1b2a0c34cc74.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1334,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1334",
 			"wallpaper_url": "https://i.pinimg.com/originals/20/13/74/201374d9f86fa074928e3c109c0d34c8.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1335,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1335",
 			"wallpaper_url": "https://i.pinimg.com/originals/63/5e/a1/635ea1e08c867f8d4411334f1faed09b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1336,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1336",
 			"wallpaper_url": "https://i.pinimg.com/originals/96/76/7d/96767d234e75c94098aa86d21c9b1a26.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1337,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1337",
 			"wallpaper_url": "https://i.pinimg.com/originals/56/08/99/560899c401ccee55e12489902bade6d6.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1338,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1338",
 			"wallpaper_url": "https://i.pinimg.com/originals/2e/8d/7c/2e8d7c38a0e7c02c3f3b768bab9de219.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1339,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1339",
 			"wallpaper_url": "https://i.pinimg.com/originals/b8/e9/75/b8e975f6369d3a813bb9e3ed3869ab56.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1340,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1340",
 			"wallpaper_url": "https://i.pinimg.com/originals/e4/df/ab/e4dfab86a272c5b45488b8eb03406275.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1341,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1341",
 			"wallpaper_url": "https://i.pinimg.com/originals/21/dc/7c/21dc7c415d80adc5a4a2bf17ebcaa212.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1342,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1342",
 			"wallpaper_url": "https://i.pinimg.com/originals/45/ec/5a/45ec5a616364af4dc596d99d0b04b569.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1343,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1343",
 			"wallpaper_url": "https://i.pinimg.com/originals/48/cf/24/48cf24b2bcb6ff6534b89df4d21908fc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1344,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1344",
 			"wallpaper_url": "https://i.pinimg.com/originals/c5/43/a8/c543a8e7d348cccd89ba8d546068639b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1345,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1345",
 			"wallpaper_url": "https://i.pinimg.com/originals/d5/07/c9/d507c952d6ef44f43f957f2753f99857.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1346,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1346",
 			"wallpaper_url": "https://i.pinimg.com/originals/86/6b/8d/866b8dd43e8a84f639d41c1f342c55b9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1347,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1347",
 			"wallpaper_url": "https://i.pinimg.com/originals/5a/8f/10/5a8f105cce30bed6c352b83400e12df9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1348,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1348",
 			"wallpaper_url": "https://i.pinimg.com/originals/30/9e/ff/309eff51658660ddcbd1afc58fc1b62d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1349,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1349",
 			"wallpaper_url": "https://i.pinimg.com/originals/6e/8c/27/6e8c27db20e7f89d68b1055dadd8277a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1350,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1350",
 			"wallpaper_url": "https://i.pinimg.com/originals/eb/8e/b3/eb8eb3618b3f1e4cfc3b788abd0b6528.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1351,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1351",
 			"wallpaper_url": "https://i.pinimg.com/originals/0a/8a/8e/0a8a8e5977f9cdb6a764716274a71988.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1352,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1352",
 			"wallpaper_url": "https://i.pinimg.com/originals/d9/7d/13/d97d13be770937259b9a22bd6e824fac.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1353,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1353",
 			"wallpaper_url": "https://i.pinimg.com/originals/92/5a/26/925a2622bb6d4271f85ba1c4af59af83.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1354,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1354",
 			"wallpaper_url": "https://i.pinimg.com/originals/97/0e/67/970e6758add6f21b813f0b5fe639437f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1355,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1355",
 			"wallpaper_url": "https://i.pinimg.com/originals/74/9d/a4/749da4ea37cfb305db3e93ccc4931910.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1356,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1356",
 			"wallpaper_url": "https://i.pinimg.com/originals/3c/b0/d9/3cb0d936ebe769e9c8b239880b4f09ab.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1357,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1357",
 			"wallpaper_url": "https://i.pinimg.com/originals/55/ec/a8/55eca880c7dbbbcad30d583f00c4f7db.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1358,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1358",
 			"wallpaper_url": "https://i.pinimg.com/originals/af/b0/40/afb040bcd05407ed19d332fa6b2a07a9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1359,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1359",
 			"wallpaper_url": "https://i.pinimg.com/originals/aa/db/56/aadb5612d8eb7361ab03c3d7e2b07762.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1360,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1360",
 			"wallpaper_url": "https://i.pinimg.com/originals/e7/2b/ff/e72bffadd9fc3f64baf0c3b7a42ed388.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1361,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1361",
 			"wallpaper_url": "https://i.pinimg.com/originals/bd/80/d6/bd80d61807e1c8d8fdcb9c750ff20bbb.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1362,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1362",
 			"wallpaper_url": "https://i.pinimg.com/originals/df/c6/97/dfc6975b438b0303f130d4f4b5e1776a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1363,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1363",
 			"wallpaper_url": "https://i.pinimg.com/originals/fc/a6/25/fca625785645c97641fcd86e5d4bf6db.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1364,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1364",
 			"wallpaper_url": "https://i.pinimg.com/originals/12/05/8c/12058c507bedc37ef7a37eb5551130b1.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1365,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1365",
 			"wallpaper_url": "https://i.pinimg.com/originals/f0/3d/a1/f03da1b82384db4b6da6e79dec319ef5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1366,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1366",
 			"wallpaper_url": "https://i.pinimg.com/originals/69/d3/f2/69d3f297e27b4ce98882f149b260f62f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1367,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1367",
 			"wallpaper_url": "https://i.pinimg.com/originals/95/31/15/95311524f6687b4da7b4575694f3df5c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1368,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1368",
 			"wallpaper_url": "https://i.pinimg.com/originals/a4/32/ff/a432ffc0290a40bf39ebde044e1adaaf.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1369,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1369",
 			"wallpaper_url": "https://i.pinimg.com/originals/b5/8a/8f/b58a8f0eb3b51c6c34581355eafa88d3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1370,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1370",
 			"wallpaper_url": "https://i.pinimg.com/originals/1e/e5/c9/1ee5c9411b44dc9ab305bf4a1261991f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1371,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1371",
 			"wallpaper_url": "https://i.pinimg.com/originals/10/59/cf/1059cf94616d6bfd311dfdb8e09d0e22.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1372,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1372",
 			"wallpaper_url": "https://i.pinimg.com/originals/d0/a9/c7/d0a9c7b20f7c3ea325a38fe206d894c4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1373,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1373",
 			"wallpaper_url": "https://i.pinimg.com/originals/48/a9/64/48a964c8d54b8594bd7589970a2429f5.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1374,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1374",
 			"wallpaper_url": "https://i.pinimg.com/originals/ae/1c/fd/ae1cfd2de0a1e3d4d9eca4e9089dfa39.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1375,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1375",
 			"wallpaper_url": "https://i.pinimg.com/originals/67/5d/92/675d92c0bf9f355a0419820c2dc07138.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1376,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1376",
 			"wallpaper_url": "https://i.pinimg.com/originals/b0/8a/e8/b08ae8ebd5d2352361c14e5d2635075a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1377,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1377",
 			"wallpaper_url": "https://i.pinimg.com/originals/32/5a/79/325a79de75188532d4357935a8144877.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1378,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1378",
 			"wallpaper_url": "https://i.pinimg.com/originals/5d/3b/65/5d3b6572f709540f3c59671f2b9cffd9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1379,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1379",
 			"wallpaper_url": "https://i.pinimg.com/originals/f7/c3/14/f7c3145e9894efdbb7ec74c1d88a6e7b.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1380,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1380",
 			"wallpaper_url": "https://i.pinimg.com/originals/16/c0/21/16c021b10160189b5e9c9df3b72c5b67.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1381,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1381",
 			"wallpaper_url": "https://i.pinimg.com/originals/87/d9/ed/87d9edb94baad5d1acc2c18511027122.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1382,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1382",
 			"wallpaper_url": "https://i.pinimg.com/originals/7d/d6/af/7dd6af79ad9f0cf13aec55dd5062c9f1.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1383,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1383",
 			"wallpaper_url": "https://i.pinimg.com/originals/2f/14/9a/2f149a43d965c17bb765179716ae13dd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1384,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1384",
 			"wallpaper_url": "https://i.pinimg.com/originals/19/9b/b7/199bb7fd712d792401eb5a41278c79a4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1385,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1385",
 			"wallpaper_url": "https://i.pinimg.com/originals/8c/fa/84/8cfa84d6751c6bce479216f1420e9b77.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1386,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1386",
 			"wallpaper_url": "https://i.pinimg.com/originals/c9/08/40/c908404730eb5b97e32b389f58da2ea3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1387,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1387",
 			"wallpaper_url": "https://i.pinimg.com/originals/1d/20/d9/1d20d9f3ca929085861b6aeef14c88d9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1388,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1388",
 			"wallpaper_url": "https://i.pinimg.com/originals/c0/48/22/c04822f24cce3e95ce41897f298d9a23.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1389,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1389",
 			"wallpaper_url": "https://i.pinimg.com/originals/1f/a3/88/1fa388ef952e0ad1b77316da1ed74ddd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1390,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1390",
 			"wallpaper_url": "https://i.pinimg.com/originals/46/58/b4/4658b46ee71a46cfe4dfff12bc321fa7.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1391,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1391",
 			"wallpaper_url": "https://i.pinimg.com/originals/de/97/47/de97479123bd113ef2a092c845a413b1.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1392,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1392",
 			"wallpaper_url": "https://i.pinimg.com/originals/13/a8/38/13a838c6130075df74d0745ece1784a3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1393,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1393",
 			"wallpaper_url": "https://i.pinimg.com/originals/52/12/32/521232741edbf75b92258e261707d076.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1394,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1394",
 			"wallpaper_url": "https://i.pinimg.com/originals/96/9e/d4/969ed4a32950515276ca36800988ca91.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1395,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1395",
 			"wallpaper_url": "https://i.pinimg.com/originals/df/9f/ec/df9fec978c7344d497c89f7b4a359af2.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1396,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1396",
 			"wallpaper_url": "https://i.pinimg.com/originals/6c/d9/05/6cd9053be79c71868460853f17387e48.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1397,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1397",
 			"wallpaper_url": "https://i.pinimg.com/originals/3e/99/2c/3e992c96c78ae52708b76c6062fa396e.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1398,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1398",
 			"wallpaper_url": "https://i.pinimg.com/originals/53/1b/f0/531bf0bca56f7e3d6502907cd60f5d14.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1399,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1399",
 			"wallpaper_url": "https://i.pinimg.com/originals/34/5c/7c/345c7cdb8d8ad4725f30b5f23da7acc3.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1400,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1400",
 			"wallpaper_url": "https://i.pinimg.com/originals/95/5d/f5/955df5a7673976a2dd80e22ba67e2c98.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1401,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1401",
 			"wallpaper_url": "https://i.pinimg.com/originals/9b/91/93/9b919380aa760c99ba48d74606829a5b.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1402,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1402",
 			"wallpaper_url": "https://i.pinimg.com/originals/75/ba/d8/75bad82784797f0d187dcde24958fad1.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1403,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1403",
 			"wallpaper_url": "https://i.pinimg.com/originals/d5/22/95/d52295955dec587d1b349557e5620038.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1404,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1404",
 			"wallpaper_url": "https://i.pinimg.com/originals/5f/8c/61/5f8c61886cc331e0e9067169258284dd.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1405,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1405",
 			"wallpaper_url": "https://i.pinimg.com/originals/f8/a7/99/f8a7993c2a6dd2fa59246b1131c3b843.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1406,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1406",
 			"wallpaper_url": "https://i.pinimg.com/originals/c5/d6/d2/c5d6d2f7f9d4ae75482b9c24256887ee.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1407,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1407",
 			"wallpaper_url": "https://i.pinimg.com/originals/2b/1e/11/2b1e11e15198e77b721252448c0019d4.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1408,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1408",
 			"wallpaper_url": "https://i.pinimg.com/originals/19/ea/b3/19eab3812f4b2bb616d5bafd0516d7c1.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1409,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1409",
 			"wallpaper_url": "https://i.pinimg.com/originals/24/6e/7a/246e7ab32e0a4ed197283778830b171e.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1410,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1410",
 			"wallpaper_url": "https://i.pinimg.com/originals/cc/52/48/cc52481d41320009f5a76ae87d5cfe33.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1411,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1411",
 			"wallpaper_url": "https://i.pinimg.com/originals/5e/fb/9a/5efb9acd3fa34faa9cfe16079fa401db.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1412,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1412",
 			"wallpaper_url": "https://i.pinimg.com/originals/99/38/25/993825392db255c6d26d2d2ddb6c4dca.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1413,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1413",
 			"wallpaper_url": "https://i.pinimg.com/originals/fe/70/65/fe7065c95b11ba15c44cc89c5e704e0c.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1414,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1414",
 			"wallpaper_url": "https://i.pinimg.com/originals/25/fa/4b/25fa4bd1c6451cc350e7e7020d6a0062.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1415,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1415",
 			"wallpaper_url": "https://i.pinimg.com/originals/86/3e/7f/863e7f7fde24ac41ccf4e7a2f1a24fd8.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1416,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1416",
 			"wallpaper_url": "https://i.pinimg.com/originals/0f/0a/0f/0f0a0f05a7cabaa5c384632b10b6b2d9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1417,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1417",
 			"wallpaper_url": "https://i.pinimg.com/originals/77/98/47/779847742bd75b10376ad1e7fb9414d9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1418,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1418",
 			"wallpaper_url": "https://i.pinimg.com/originals/59/c1/ed/59c1ed98e8f14c17893085678f07a962.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1419,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1419",
 			"wallpaper_url": "https://i.pinimg.com/originals/7a/f3/69/7af3698562bac76a89dad179f749bbac.png"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1420,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1420",
 			"wallpaper_url": "https://i.pinimg.com/originals/56/2a/e7/562ae7a0b3d254335c2f5d85069b574d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1421,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1421",
 			"wallpaper_url": "https://i.pinimg.com/originals/ae/cb/6f/aecb6f303525349ae74bffa979e497dc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1422,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1422",
 			"wallpaper_url": "https://i.pinimg.com/originals/45/47/4b/45474b4dc9002c58cb411c084ae4eed9.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1423,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1423",
 			"wallpaper_url": "https://i.pinimg.com/originals/bb/62/4f/bb624ffc831e71720609cf0d6cc5a8fe.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1424,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1424",
 			"wallpaper_url": "https://i.pinimg.com/originals/0d/be/89/0dbe893cac8f78915d9981031408a4cc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1425,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1425",
 			"wallpaper_url": "https://i.pinimg.com/originals/09/d4/4b/09d44bea1dcfaeabd113244d88c44afc.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1426,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1426",
 			"wallpaper_url": "https://i.pinimg.com/originals/63/eb/f9/63ebf91894e6dc8929978fff0e2e8f7f.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1427,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1427",
 			"wallpaper_url": "https://i.pinimg.com/originals/41/40/ec/4140ece14663f1d93d963f107237f99d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1428,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1428",
 			"wallpaper_url": "https://i.pinimg.com/originals/53/5b/ff/535bff853f8cd6912f3fd1db273b059a.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1429,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1429",
 			"wallpaper_url": "https://i.pinimg.com/originals/42/59/8d/42598dc5ee5c05f19de3bc827c9cbf5d.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1430,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1430",
 			"wallpaper_url": "https://i.pinimg.com/originals/c0/0b/88/c00b8804a28acee444f36c62ded8b431.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1431,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1431",
 			"wallpaper_url": "https://i.pinimg.com/originals/2e/50/39/2e5039a18fa213b68c7e521b48e6a8ec.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1432,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1432",
 			"wallpaper_url": "https://i.pinimg.com/originals/b1/67/ef/b167ef64766a8fdcfd531dba3a016c25.jpg"
 		},
 		{
 			"wallpaper_thumbnail": "",
 			"wallpaper_id": 1433,
-			"category_name": "CuteBear",
+			"category_name": "Cute Bear",
 			"wallpaper_name": "CuteBear1433",
 			"wallpaper_url": "https://i.pinimg.com/originals/09/7f/eb/097febe9d0d648393c53adb235cf64a9.jpg"
 		}
