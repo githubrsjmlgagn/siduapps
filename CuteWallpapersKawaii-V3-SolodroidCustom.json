@@ -61,6 +61,18 @@
 	}],
 	"categories": [
 		{
+     			 "category_id": 51,
+    			  "category_name": "3D Puffy Wallpapers",
+    			  "category_image": "https://i.pinimg.com/564x/cb/66/3b/cb663bb9494f086711afb3a482a695b3.jpg",
+			  "url": "https://play.google.com/store/apps/details?id=com.kawaii.aesthetic.puffy.wallpaper"
+    		},
+   		 {
+      			"category_id": 52,
+      			"category_name": "Kawaii Wallpaper",
+      			"category_image": "https://i.pinimg.com/564x/1c/3e/ee/1c3eee7d9320623c6a7efda303b608d1.jpg",
+			"url": "https://play.google.com/store/apps/details?id=com.siduapps.pusheen.cat.wallpaper"
+   		 },
+		{
 			"category_id": 1,
 			"category_name": "Kawaii Aesthetic",
 			"category_image": "https://i.pinimg.com/564x/0c/7c/0b/0c7c0be840b3456c0dd31acfd3a0fa71.jpg",
