@@ -19,8 +19,8 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "admob",
-      "backup_ad": "fan",
+      "main_ad": "fan",
+      "backup_ad": "admob",
       "admob_banner_unit_id": "ca-app-pub-7570246391962806/6612038322",
       "admob_interstitial_unit_id": "ca-app-pub-7570246391962806/6284735262",
       "admob_native_unit_id": "ca-app-pub-7570246391962806/4971653598",
