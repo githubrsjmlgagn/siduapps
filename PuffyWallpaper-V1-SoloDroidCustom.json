@@ -70,13 +70,6 @@
 			"category_image": "https://i.pinimg.com/564x/66/24/17/662417bc5eed392f70469ca410b2be53.jpg",
 			"url": ""
 		},
-
-		{
-			"category_id": 51,
-			"category_name": "Sanrio Wallpaper",
-			"category_image": "https://play-lh.googleusercontent.com/-q1gVvU77m801kb_Te47ZhnjGqXFU-CrifrAOH-FKFvYfq_Alv6zY1C_di6c3tO25w=w240-h480-rw",
-			"url": "https://play.google.com/store/apps/details?id=com.siduapps.cute.girly.wallpaper"
-		},
 		{
 			"category_id": 2,
 			"category_name": "Flower and Butterfly",
@@ -84,24 +77,11 @@
 			"url": ""
 		},
 		{
-			"category_id": 52,
-			"category_name": "Cute Kawaii Wallpaper",
-			"category_image": "https://i.pinimg.com/564x/1c/3e/ee/1c3eee7d9320623c6a7efda303b608d1.jpg",
-			"url": "https://play.google.com/store/apps/details?id=com.siduapps.pusheen.cat.wallpaper"
-		},
-		{
 			"category_id": 3,
 			"category_name": "Food and Fruits",
 			"category_image": "https://i.pinimg.com/564x/90/0b/1c/900b1c6222f1143c56f17b410df9033d.jpg",
 			"url": ""
 		},
-		{
-			"category_id": 53,
-			"category_name": "Cute Aesthetic Wallpapers",
-			"category_image": "https://play-lh.googleusercontent.com/j6zU3TDQFr1Is-GrLIChaNpbqhieiSmM8OBu-VcrkpXZlaXzMgywWEq-kmjHxEBErQ=w2560-h1440",
-			"url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
-		},
-
 		{
 			"category_id": 4,
 			"category_name": "Love Heart",
@@ -114,12 +94,31 @@
 			"category_image": "https://i.pinimg.com/564x/b3/0d/49/b30d49c4527d47cd9714b56b9535cfd5.jpg",
 			"url": ""
 		},
-		{
+	  	{
 			"category_id": 50,
 			"category_name": "More Apps on",
 			"category_image": "https://i.pinimg.com/564x/f3/b7/8e/f3b78e7128e7615cbb541e2d643dd679.jpg",
 			"url": "https://play.google.com/store/apps/developer?id=Sidomoelyo+Publisher"
+		},
+		{
+			"category_id": 51,
+			"category_name": "Cute Sanrio Wallpapers",
+			"category_image": "https://i.pinimg.com/564x/d2/b2/2c/d2b22ca56502102491f9a446ed30c235.jpg",
+			"url": "https://play.google.com/store/apps/details?id=com.siduapps.cute.girly.wallpaper"
+		},
+		{
+			"category_id": 52,
+			"category_name": "Cute Kawaii Wallpapers",
+			"category_image": "https://play-lh.googleusercontent.com/vzIXIvhYoUVn6pGbeQXLdLBte2e6gjvvQWBY2tZ598t2G6qFNvJlGgMx7Y3NIA7tfIU=w526-h296-rw",
+			"url": "https://play.google.com/store/apps/details?id=com.siduapps.pusheen.cat.wallpaper"
+		},
+		{
+			"category_id": 53,
+			"category_name": "Cute Aesthetic Wallpapers",
+			"category_image": "https://play-lh.googleusercontent.com/j6zU3TDQFr1Is-GrLIChaNpbqhieiSmM8OBu-VcrkpXZlaXzMgywWEq-kmjHxEBErQ=w2560-h1440",
+			"url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
 		}
+	  
 
 
 	],
