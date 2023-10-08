@@ -56,7 +56,7 @@
 		"native_ad_style": "large",
 		"show_banner_ad_home": false,
 		"show_banner_ad_wallpaper_details": true,
-		"show_banner_ad_category_details": true,
+		"show_banner_ad_category_details": false,
 		"show_banner_ad_search": false,
 		"show_interstitial_ad_wallpaper_list": true,
 		"show_interstitial_ad_wallpaper_details": true,
