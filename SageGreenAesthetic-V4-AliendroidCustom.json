@@ -3,17 +3,17 @@
 		"select_main_ads": "FACEBOOK",
 		"select_backup_ads": "ADMOB",
 
-		"backup_ads_banner": "ca-app-pub-7570246391962806/3802080148",
-		"backup_ads_intertitial": "ca-app-pub-7570246391962806/7811824956",
-		"backup_ads_natives": "ca-app-pub-7570246391962806/4923590120",
+		"backup_ads_banner": "",
+		"backup_ads_intertitial": "",
+		"backup_ads_natives": "",
 		"backup_ads_rewards": "",
 		
-		"main_ads_banner":"187654883956930_187659097289842",
-		"main_ads_intertitial":"187654883956930_187659187289833",
-		"main_ads_natives":"187654883956930_187659327289819",
+		"main_ads_banner":"",
+		"main_ads_intertitial":"",
+		"main_ads_natives":"",
 		"main_ads_rewards":"",
 
-		"open_ads_admob": "ca-app-pub-7570246391962806/9984345115",
+		"open_ads_admob": "",
 		"open_ads_alien": "",
 		"open_ads_max": "",
 		"open_ads_wortise": "",
@@ -33,8 +33,8 @@
 
 		"link_privacy_policy": "https://sites.google.com/view/sidomoelyopublisher",
 
-		"status_app": "0",
-		"link_redirect": "https://",
+		"status_app": "1",
+		"link_redirect": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.aesthetic.sage.green",
 		
 		"protect_app": true,
 		"base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqxGhb9k2eI1AY+KFlzrN2g5dsqsQjOU0gpkdxdxBuSYlgyO+IXtD//3q1pVg+zEkSIeOcYSOr0lyugvPaFdL1Yx32rqbg4Y6E4AhnJMrAFaNzNdiyY3Yf5jQoyu/bHybvdQVvgyRpaGgRq3FGD/rEqk53kGq4PEvfse7uj/37sEZwTUoftLUhA3y7ZROj9D33luIwOoqVS/hvIo+vVOB2OEncA6XDMP9aYlLyquhvlG3vOfW7qn0PiE8PiLguVVy0dPMLVmGbUvPY4AHGuuTFt+VNAhp3GSKb3xp3S2ZI3oUOG1IQTT9NmxA/OGb559mRj8tRFmsONWwOiiA3FKvrwIDAQAB",
