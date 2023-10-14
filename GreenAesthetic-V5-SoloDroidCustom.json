@@ -9,26 +9,26 @@
 		"enable_exit_dialog": true,
 		"enable_vpn_access": false,
 		"enable_dark_mode_as_default_theme": false,
-		"enable_app_protection": false,
-		"base64_license_key": "",
+		"enable_app_protection": true,
+		"base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqxGhb9k2eI1AY+KFlzrN2g5dsqsQjOU0gpkdxdxBuSYlgyO+IXtD//3q1pVg+zEkSIeOcYSOr0lyugvPaFdL1Yx32rqbg4Y6E4AhnJMrAFaNzNdiyY3Yf5jQoyu/bHybvdQVvgyRpaGgRq3FGD/rEqk53kGq4PEvfse7uj/37sEZwTUoftLUhA3y7ZROj9D33luIwOoqVS/hvIo+vVOB2OEncA6XDMP9aYlLyquhvlG3vOfW7qn0PiE8PiLguVVy0dPMLVmGbUvPY4AHGuuTFt+VNAhp3GSKb3xp3S2ZI3oUOG1IQTT9NmxA/OGb559mRj8tRFmsONWwOiiA3FKvrwIDAQAB",
 		"redirect_url": "",
 		"privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
 	}],
 	"ads": [{
-		"ad_status": 0,
-		"main_ad": "admob",
-		"backup_ad": "fan",
-		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-		"admob_native_unit_id": "ca-app-pub-3940256099942544/3986624511",
-		"admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
-		"ad_manager_banner_unit_id": "/6499/example/banner",
-		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
-		"ad_manager_native_unit_id": "/6499/example/native",
-		"ad_manager_app_open_unit_id": "/6499/example/app-open",
-		"fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
-		"fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
-		"fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+		"ad_status": 1,
+      		"main_ad": "fan",
+      		"backup_ad": "admob",
+      		"admob_banner_unit_id": "ca-app-pub-7570246391962806/3802080148",
+      		"admob_interstitial_unit_id": "ca-app-pub-7570246391962806/7811824956",
+      		"admob_native_unit_id": "ca-app-pub-7570246391962806/4923590120",
+      		"admob_app_open_unit_id": "ca-app-pub-7570246391962806/9984345115",
+      		"ad_manager_banner_unit_id": "/6499/example/banner",
+      		"ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+     		"ad_manager_native_unit_id": "/6499/example/native",
+      		"ad_manager_app_open_unit_id": "/6499/example/app-open",
+      		"fan_banner_unit_id": "187654883956930_187659097289842",
+      		"fan_interstitial_unit_id": "187654883956930_187659187289833",
+      		"fan_native_unit_id": "187654883956930_187659327289819",
 		"startapp_app_id": "0",
 		"unity_game_id": "4089993",
 		"unity_banner_placement_id": "banner",
@@ -56,7 +56,7 @@
 		"native_ad_style": "large",
 		"show_banner_ad_home": false,
 		"show_banner_ad_wallpaper_details": true,
-		"show_banner_ad_category_details": true,
+		"show_banner_ad_category_details": false,
 		"show_banner_ad_search": false,
 		"show_interstitial_ad_wallpaper_list": true,
 		"show_interstitial_ad_wallpaper_details": true,
@@ -72,6 +72,30 @@
 			"category_name": "Green Aesthetic",
 			"category_image": "https://i.pinimg.com/originals/f5/76/74/f57674b085ad2a98519060d91ff036f2.jpg",
 			"url": ""
+		},
+		{
+			"category_id": 50,
+			"category_name": "More Apps on",
+			"category_image": "https://i.pinimg.com/564x/f3/b7/8e/f3b78e7128e7615cbb541e2d643dd679.jpg",
+			"url": "https://play.google.com/store/apps/developer?id=Sidomoelyo+Publisher"
+		},
+		{
+			"category_id": 51,
+			"category_name": "Cute Sanrio Wallpapers",
+			"category_image": "https://i.pinimg.com/564x/d2/b2/2c/d2b22ca56502102491f9a446ed30c235.jpg",
+			"url": "https://play.google.com/store/apps/details?id=com.siduapps.cute.girly.wallpaper"
+		},
+		{
+			"category_id": 52,
+			"category_name": "Cute Kawaii Wallpapers",
+			"category_image": "https://play-lh.googleusercontent.com/vzIXIvhYoUVn6pGbeQXLdLBte2e6gjvvQWBY2tZ598t2G6qFNvJlGgMx7Y3NIA7tfIU=w526-h296-rw",
+			"url": "https://play.google.com/store/apps/details?id=com.siduapps.pusheen.cat.wallpaper"
+		},
+		{
+			"category_id": 53,
+			"category_name": "Aesthetic Wallpapers",
+			"category_image": "https://play-lh.googleusercontent.com/B6xPcuvif7WV85DhbkffCUjFkPhg1nPMFS0KkaM8NTxfWtyka6jyoykRjLUS2YvqHVY=w416-h235-rw",
+			"url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
 		}
 
 
