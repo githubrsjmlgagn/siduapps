@@ -9,7 +9,7 @@
 		"enable_exit_dialog": true,
 		"enable_vpn_access": false,
 		"enable_dark_mode_as_default_theme": true,
-		"enable_app_protection": false,
+		"enable_app_protection": true,
 		"base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwP1I+L8WK1hWMl8ru/Hf5rXbPUfoJApgV4/x3mA4sBi9qvPzjg0gnc1kbIBYTEyL9gHry49BsbXlSEkXZ7+7wsQ1f/VdjdAT0EG1tUxZyx+Fk4yq5lRmsZX3+pdz9rKNw3yXU3NxgfC8aUmNA8FxfCaulMZaX95x+vE3JUyPLUb0s6AM//5Cv3keN4Mj0n3ZY4SDXVUPmW270yIUqv8sWps4tefGT2RXufgg18o3DuT+VKiFkoDIxh2J2BGNXloW/ji0N0XkQhhm0AtqzxK4HaQQds/ox1VoFOIunLU0XhtysbkxKHxrRUUh5zS8arQGpnSA4HjOyOd3rQrvKeLT5QIDAQAB",
 		"redirect_url": "",
 		"privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
@@ -17,7 +17,7 @@
 	"ads": [{
 		"ad_status": 1,
 		"main_ad": "fan",
-		"backup_ad": "admob",
+		"backup_ad": "fan",
 		"admob_banner_unit_id": "ca-app-pub-7570246391962806/2499788523",
 		"admob_interstitial_unit_id": "ca-app-pub-7570246391962806/4994089920",
 		"admob_native_unit_id": "ca-app-pub-7570246391962806/5237632508",
