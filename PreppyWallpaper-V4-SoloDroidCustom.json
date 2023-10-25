@@ -69,23 +69,11 @@
       "category_image": "https://i.pinimg.com/564x/b6/92/52/b692521eebfde1239fce018664bed189.jpg",
       "url": ""
     },
-	{
-      "category_id": 8,
-      "category_name": "3D Puffy Wallpaper",
-      "category_image": "https://play-lh.googleusercontent.com/QnJgdTOLylvTYOOafkF48qFL29wYrVgoaMEOevmwZ8fmUjencMdLv9TsD9d-ULUqtg=w526-h296-rw",
-      "url": "https://play.google.com/store/apps/details?id=com.kawaii.aesthetic.puffy.wallpaper"
-    },
     {
       "category_id": 2,
       "category_name": "Collections #2",
       "category_image": "https://i.pinimg.com/564x/78/5f/45/785f45c32b6f3242a7ebc42f2570105f.jpg",
       "url": ""
-    },
-	{
-      "category_id": 9,
-      "category_name": "Pastel Wallpapers",
-      "category_image": "https://i.pinimg.com/564x/f6/99/e3/f699e395412f96ef9028b16836a520f0.jpg",
-      "url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
     },
     {
       "category_id": 3,
@@ -116,6 +104,13 @@
       "category_name": "Collections #7",
       "category_image": "https://i.pinimg.com/564x/70/24/ad/7024ad9ebfe243805db8dbabfbf95b8e.jpg",
       "url": ""
+    },
+
+   {
+      "category_id": 51,
+      "category_name": "Aesthetic Wallpapper",
+      "category_image": "https://i.pinimg.com/564x/f6/99/e3/f699e395412f96ef9028b16836a520f0.jpg",
+      "url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel"
     }
   ],
  
