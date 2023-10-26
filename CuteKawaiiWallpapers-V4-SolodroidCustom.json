@@ -1,7 +1,7 @@
 {
     "apps": [
         {
-            "status": 0,
+            "status": 1,
             "featured_categories": "",
             "show_wallpaper_name": false,
             "show_wallpaper_category": false,
@@ -10,7 +10,7 @@
             "enable_exit_dialog": true,
             "enable_vpn_access": false,
             "enable_dark_mode_as_default_theme": false,
-            "redirect_url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel",
+            "redirect_url": "",
             "privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
         }
     ],
