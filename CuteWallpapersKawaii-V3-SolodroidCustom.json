@@ -1,6 +1,6 @@
 {
 	"apps": [{
-		"status": 1,
+		"status": 0,
 		"featured_categories": "",
 		"show_wallpaper_name": false,
 		"show_wallpaper_category": false,
@@ -11,7 +11,7 @@
 		"enable_dark_mode_as_default_theme": false,
 		"enable_app_protection": false,
 		"base64_license_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWXgdrTlCPQ04vLCPl8/ErZwNUnW0gnGnA/UriuQg32qVlchXCKyRn+ZOdQx/kI1pjEFN+0IHVgd7px6WrH7Li/2DAE0ufx6efTtROMuzq1U5faI6NmK4Eg9m9ebv6JG9Lu39u16yx6g+angPYbTZO9tfKpECYqMS2Peex4Fd5IBn0mMQc3hclw7is/1ekW9b4z31Gtyf686AagBoGQiRISMVeH8Po/XniLBt9kowzawgKaAOuXR7sRGcxEtuD05anABhT/X4sc91EgWlpxUtKwlsLoWz+NkzZKmzYUtmR3vQHzyoJLDswP3n7i1FbG0I5IHPZBRvLsPyBfqD7jLBwIDAQAB",
-		"redirect_url": "",
+		"redirect_url": "https://play.google.com/store/apps/details?id=com.siduapps.wallpaper.soft.aesthetic.pastel",
 		"privacy_policy_url": "https://sites.google.com/view/sidomoelyopublisher"
 	}],
 	"ads": [{
